@@ -1,0 +1,9 @@
+{
+  "buildTime": "2025-06-07T20:48:50Z",
+  "sourceCommit": "06997bc0bf4b4e3b57f32eff13a6affc2caa068c",
+  "buildNumber": "1",
+  "minified": true,
+  "branch": "main",
+  "sourceRepo": "kehtabp/chess2knight",
+  "deployRepo": "kehtabp/chess2knight-public"
+}

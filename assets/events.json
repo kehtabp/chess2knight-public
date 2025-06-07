@@ -1,0 +1,114 @@
+[
+    {
+        "id": "event-1",
+        "title": "Chess Tournament",
+        "start": "2025-06-07",
+        "end": "2025-06-07",
+        "location": [51.505, -0.09],
+        "website": "https://www.chess.com/events",
+        "socials": {
+            "facebook": "https://facebook.com/chessclub",
+            "twitter": "https://twitter.com/chessclub"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-2",
+        "title": "Casual Chess Meetup",
+        "start": "2025-06-08",
+        "end": "2025-06-08",
+        "location": [51.515, -0.1],
+        "website": "https://www.meetup.com/chess-london",
+        "type": "casual"
+    },
+    {
+        "id": "event-3",
+        "title": "Chess Workshop",
+        "start": "2025-06-09",
+        "end": "2025-06-09",
+        "location": [51.525, -0.11],
+        "website": "https://www.chessworkshop.com",
+        "socials": {
+            "instagram": "https://instagram.com/chessworkshop"
+        },
+        "type": "workshop"
+    },
+    {
+        "id": "event-4",
+        "title": "Weekly Chess Club",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["mo"],
+            "dtstart": "2025-06-02T18:00:00",
+            "until": "2025-08-25T18:00:00"
+        },
+        "location": [51.535, -0.12],
+        "website": "https://www.chessclub.org",
+        "socials": {
+            "facebook": "https://facebook.com/weeklychess",
+            "twitter": "https://twitter.com/weeklychess"
+        },
+        "type": "club"
+    },
+    {
+        "id": "event-5",
+        "title": "London Chess Meetup",
+        "start": "2025-06-15",
+        "end": "2025-06-15",
+        "location": [51.5074, -0.1278],
+        "website": "https://www.meetup.com/london-chess",
+        "type": "casual"
+    },
+    {
+        "id": "event-6",
+        "title": "Chess in the Park",
+        "start": "2025-06-22",
+        "end": "2025-06-22",
+        "location": [51.5080, -0.1281],
+        "socials": {
+            "instagram": "https://instagram.com/chessinthepark"
+        },
+        "type": "casual"
+    },
+    {
+        "id": "event-7",
+        "title": "Chess Club at the Library",
+        "start": "2025-06-29",
+        "end": "2025-06-29",
+        "location": [51.5090, -0.1290],
+        "website": "https://www.librarychess.org",
+        "type": "club"
+    },
+    {
+        "id": "event-8",
+        "title": "Waterloo OTB Chess Tournament",
+        "start": "2025-06-14T10:00:00",
+        "end": "2025-06-14T18:00:00",
+        "location": [51.5033, -0.1145],
+        "website": "https://www.waterloochess.com/tournament",
+        "socials": {
+            "facebook": "https://facebook.com/waterloochess",
+            "twitter": "https://twitter.com/waterloochess",
+            "instagram": "https://instagram.com/waterloochess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-9",
+        "title": "Waterloo Weekly OTB Chess",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["th"],
+            "dtstart": "2025-06-05T18:00:00",
+            "until": "2025-12-31T21:00:00"
+        },
+        "location": [51.5033, -0.1145],
+        "website": "https://www.waterloochess.com/weekly",
+        "socials": {
+            "facebook": "https://facebook.com/waterloochess",
+            "twitter": "https://twitter.com/waterloochess",
+            "instagram": "https://instagram.com/waterloochess"
+        },
+        "type": "club"
+    }
+]
