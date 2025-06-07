@@ -9,9 +9,9 @@ This is the production deployment repository for the Chess Events Map applicatio
 This repository contains the minified, production-ready files automatically deployed from the private source repository. The application is built using GitHub Actions and deployed to GitHub Pages.
 
 ### Build Information
-- **Last Build:** 2025-06-07 22:07:21 UTC
-- **Source Commit:** 15cf51a276766833cc397171d85d246e1c18d066
-- **Build Number:** 10
+- **Last Build:** 2025-06-07 22:10:56 UTC
+- **Source Commit:** 32e323f1f9791bee0631ab4a300b5b582bbd9bb7
+- **Build Number:** 11
 - **Branch:** main
 
 ### Features
