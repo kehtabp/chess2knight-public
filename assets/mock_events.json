@@ -36,12 +36,10 @@
     {
         "id": "event-4",
         "title": "Weekly Chess Club",
-        "rrule": {
-            "freq": "weekly",
-            "byweekday": ["mo"],
-            "dtstart": "2025-06-02T18:00:00",
-            "until": "2025-08-25T18:00:00"
-        },
+        "start": "2025-06-02T18:00:00",
+        "end": "2025-06-02T21:00:00",
+        "recurring": "Weekly",
+        "description": "Join our friendly chess club every Monday evening! All skill levels welcome. We provide boards and pieces, just bring your enthusiasm for chess. Light refreshments provided.",
         "location": [51.535, -0.12],
         "website": "https://www.chessclub.org",
         "socials": {
@@ -53,8 +51,10 @@
     {
         "id": "event-5",
         "title": "London Chess Meetup",
-        "start": "2025-06-15",
-        "end": "2025-06-15",
+        "start": "2025-06-15T14:00:00",
+        "end": "2025-06-15T18:00:00",
+        "recurring": "No, one-time event",
+        "description": "Special one-time outdoor chess meetup in the park! Bring your own board or use ours. Perfect for beginners and experienced players. Free event with optional coffee donations.",
         "location": [51.5074, -0.1278],
         "website": "https://www.meetup.com/london-chess",
         "type": "casual"
@@ -95,21 +95,19 @@
     },
     {
         "id": "event-9",
-        "title": "Waterloo Weekly OTB Chess",
-        "rrule": {
-            "freq": "weekly",
-            "byweekday": ["th"],
-            "dtstart": "2025-06-05T18:00:00",
-            "until": "2025-12-31T21:00:00"
-        },
+        "title": "Monthly Chess Tournament",
+        "start": "2025-06-05T18:00:00",
+        "end": "2025-06-05T21:00:00",
+        "recurring": "Monthly",
+        "description": "Competitive monthly tournament with prizes! Entry fee £10. Swiss system, 5 rounds. All FIDE rated players welcome. Register by 5:30 PM on tournament day.",
         "location": [51.5033, -0.1145],
-        "website": "https://www.waterloochess.com/weekly",
+        "website": "https://www.waterloochess.com/monthly",
         "socials": {
             "facebook": "https://facebook.com/waterloochess",
             "twitter": "https://twitter.com/waterloochess",
             "instagram": "https://instagram.com/waterloochess"
         },
-        "type": "club"
+        "type": "tournament"
     },
     {
         "id": "event-10",
@@ -126,13 +124,10 @@
     },
     {
         "id": "event-11",
-        "title": "Washington Square Park Chess",
-        "rrule": {
-            "freq": "weekly",
-            "byweekday": ["sa", "su"],
-            "dtstart": "2025-06-07T12:00:00",
-            "until": "2025-09-30T18:00:00"
-        },
+        "title": "Saturday Chess in the Park",
+        "start": "2025-06-07T12:00:00",
+        "end": "2025-06-07T16:00:00",
+        "recurring": "Weekly",
         "location": [40.7308, -73.9973],
         "website": "https://www.nychessclub.org/outdoor",
         "type": "casual"

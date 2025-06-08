@@ -1,17 +1,171 @@
 {
+  "source": "google-sheets",
   "events": [
     {
-      "locationText": "51.50444367833786, -0.11247701334375776",
-      "contact": "",
-      "start": "6/6/2025",
-      "type": "casual play",
-      "id": "event-20250608142636-1",
+      "description": "Free very casual chess, every level welcome. Bring your own drinks.",
+      "end": "2025-06-06T22:00:00",
+      "type": "casual",
+      "location": [
+        51.50444367833786,
+        -0.11247701334375776
+      ],
       "website": "https://www.instagram.com/otbsouthbank/",
+      "start": "2025-06-06T18:00:00",
       "title": "OTB Southbank",
-      "time": "6pm",
-      "description": ""
+      "id": "event-20250608161946-1",
+      "recurring": "Weekly",
+      "contact": ""
+    },
+    {
+      "description": "Join our friendly chess club every Sunday morning! All skill levels welcome, from beginners to masters. Play starts from 11am and finishes around 4pm. Bring your own board if possible, but we'll provide one if needed. Follow us @london_chess_club",
+      "end": "2025-08-06T15:00:00",
+      "type": "casual",
+      "location": [
+        51.503,
+        -0.099
+      ],
+      "website": "https://www.meetup.com/london-chess-club/",
+      "start": "2025-08-06T11:00:00",
+      "title": "London Chess Club - Chess & Coffee",
+      "id": "event-20250608161946-2",
+      "recurring": "Weekly",
+      "contact": "organizers@londonchessclub.com"
+    },
+    {
+      "description": "Cozy coffeehouse chess every Friday from 6-9pm at Coffee Zee London. Warm environment for casual chess with great coffee and toasted sandwiches. Setup by London Chess Community - chess should be for everyone no matter skill level.",
+      "end": "2025-06-06T22:00:00",
+      "type": "casual",
+      "location": [
+        51.5473,
+        -0.1172
+      ],
+      "website": "https://www.instagram.com/otbsouthbank/",
+      "start": "2025-06-06T18:00:00",
+      "title": "Coffee Zee Friday Chess",
+      "id": "event-20250608161946-3",
+      "recurring": "Weekly",
+      "contact": "chess@coffeezee.com"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Weekly social casual chess for women, non-binary players, and girls. All skill levels welcome! Coaching sessions, friendly games, and socializing. Building a safe and engaging space for women in chess.",
+      "type": "club",
+      "location": [
+        51.5287,
+        -0.1232
+      ],
+      "website": "https://www.londonwomenchess.org.uk/",
+      "start": "6/28/2025",
+      "title": "London Women Chess Club",
+      "id": "event-20250608161946-4",
+      "recurring": "Weekly",
+      "contact": "info@londonwomenchess.org.uk"
+    },
+    {
+      "time": "10:30 AM",
+      "description": "FIDE and ECF rated rapid chess tournament at The Clissold Arms. Open to all players, multiple rounds with prizes for 1st (£100), 2nd (£50), and rating categories. Professional tournament organization.",
+      "type": "tournament",
+      "location": [
+        51.588,
+        -0.1442
+      ],
+      "website": "https://sites.google.com/view/chessengland",
+      "start": "6/17/2025",
+      "title": "Muswell Hill FIDE Rapid",
+      "id": "event-20250608161946-5",
+      "recurring": "Monthly",
+      "contact": "adam@chessengland.com"
+    },
+    {
+      "time": "11:00 AM",
+      "description": "6-round FIDE and ECF rated tournaments with four sections: Open, Under 1900, Under 1600, and ECF Under 1100. Must be ECF Gold/Platinum member or pay £15 supplement.",
+      "type": "tournament",
+      "location": [
+        51.5774,
+        -0.1953
+      ],
+      "website": "https://sites.google.com/view/chessengland",
+      "start": "6/14/2025",
+      "title": "Golders Green FIDE Rapid",
+      "id": "event-20250608161946-6",
+      "recurring": "Monthly",
+      "contact": "adam@chessengland.com"
+    },
+    {
+      "description": "Monthly FIDE and ECF rated blitz tournament at Cumberland Lawn Tennis Club. 19:30-22:00, anyone can play. Five minutes walk from Finchley Road & Frognal Station.",
+      "end": "2025-05-06T23:30:00",
+      "type": "tournament",
+      "location": [
+        51.5469,
+        -0.1906
+      ],
+      "website": "https://sites.google.com/view/chessengland",
+      "start": "2025-05-06T19:30:00",
+      "title": "Hendon Chess Club Blitz",
+      "id": "event-20250608161946-7",
+      "recurring": "Monthly",
+      "contact": "adam@chessengland.com"
+    },
+    {
+      "time": "9:00 AM",
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "type": "tournament",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "website": "https://form.jotform.com/250984116760359",
+      "start": "8/13/2025",
+      "title": "V Mindsports International Festival",
+      "id": "event-20250608161946-8",
+      "recurring": "No, one-time event",
+      "contact": "info@londonchessknights.com"
+    },
+    {
+      "time": "2:00 PM",
+      "description": "Diverse, sociable chess for everyone in central London. Mixed-gender lessons, courses and events promoting equality and diversity. Free and paid chess lessons available.",
+      "type": "casual",
+      "location": [
+        51.5074,
+        -0.1278
+      ],
+      "website": "http://casualchess.org/",
+      "start": "6/15/2025",
+      "title": "Casual Chess Cafe",
+      "id": "event-20250608161946-9",
+      "recurring": "Weekly",
+      "contact": "casualchesscafe@gmail.com"
+    },
+    {
+      "time": "12:00 PM",
+      "description": "Free chess sessions at Paddington Library. Open to all ages and skill levels. Library provides sets and boards. Great introduction to chess for beginners and casual play for experienced players.",
+      "type": "casual",
+      "location": [
+        51.5176,
+        -0.1755
+      ],
+      "website": "https://www.eventbrite.co.uk/",
+      "start": "6/15/2025",
+      "title": "Chess at Paddington Library",
+      "id": "event-20250608161946-10",
+      "recurring": "Weekly",
+      "contact": "paddington.library@westminster.gov.uk"
+    },
+    {
+      "time": "6:30 PM",
+      "description": "Three 5-round FIDE and ECF rated tournaments plus ECF Under 1400 section. Four sections: Open, U2000, U1650, and U1400. Professional weekend tournament format at Mindsports Centre.",
+      "type": "tournament",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "website": "https://sites.google.com/view/chessengland",
+      "start": "7/25/2025",
+      "title": "London Chess League Weekender",
+      "id": "event-20250608161946-11",
+      "recurring": "Monthly",
+      "contact": "adam@chessengland.com"
     }
   ],
-  "source": "google-sheets",
-  "lastUpdated": "2025-06-08T14:26:36.940Z"
+  "lastUpdated": "2025-06-08T16:19:46.158Z"
 }
