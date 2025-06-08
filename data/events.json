@@ -1,0 +1,22 @@
+{
+  "lastUpdated": "2024-01-01T00:00:00.000Z",
+  "source": "google-sheets",
+  "events": [
+    {
+      "id": "sample-event-1",
+      "title": "Weekly Chess Club",
+      "type": "club",
+      "location": [40.7589, -73.9851],
+      "locationText": "New York, NY",
+      "start": "2024-01-15T19:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Join us for our weekly chess club meetings",
+      "website": "https://example.com",
+      "contact": "chess@example.com",
+      "rrule": {
+        "freq": "WEEKLY",
+        "dtstart": "2024-01-15T19:00:00.000Z"
+      }
+    }
+  ]
+} 
