@@ -1,21 +1,451 @@
 {
-  "lastUpdated": "2025-06-08T17:38:31.257Z",
   "source": "google-sheets",
   "events": [
+    {
+      "title": "OTB Southbank",
+      "recurring": "Weekly",
+      "start": "2025-06-06T18:00:00",
+      "end": "2025-06-06T22:00:00",
+      "description": "Free very casual chess, every level welcome. Bring your own drinks.",
+      "location": [
+        51.50444367833786,
+        -0.11247701334375776
+      ],
+      "contact": "",
+      "id": "event-20250608194909-1",
+      "website": "https://www.instagram.com/otbsouthbank/",
+      "type": "casual"
+    },
+    {
+      "title": "TEST EVENT",
+      "recurring": "Weekly",
+      "start": "6/14/2025",
+      "description": "FRIENDLY TEST",
+      "contact": "",
+      "id": "event-20250608194909-2",
+      "locationText": "Manchester",
+      "website": "Google.com",
+      "time": "7pm",
+      "type": "workshop"
+    },
+    {
+      "title": "London Chess Club - Chess & Coffee",
+      "recurring": "Weekly",
+      "start": "2025-06-08T11:00:00",
+      "end": "2025-06-08T15:00:00",
+      "description": "Join our friendly chess club every Sunday morning! All skill levels welcome, from beginners to masters. Play starts from 11am and finishes around 4pm. Bring your own board if possible, but we'll provide one if needed. Follow us @london_chess_club",
+      "location": [
+        51.503,
+        -0.099
+      ],
+      "contact": "organizers@londonchessclub.com",
+      "id": "event-20250608194909-3",
+      "website": "https://www.meetup.com/london-chess-club/",
+      "type": "casual"
+    },
+    {
+      "title": "Coffee Zee Friday Chess",
+      "recurring": "Weekly",
+      "start": "2025-06-06T18:00:00",
+      "end": "2025-06-06T22:00:00",
+      "description": "Cozy coffeehouse chess every Friday from 6-9pm at Coffee Zee London. Warm environment for casual chess with great coffee and toasted sandwiches. Setup by London Chess Community - chess should be for everyone no matter skill level.",
+      "location": [
+        51.5473,
+        -0.1172
+      ],
+      "contact": "chess@coffeezee.com",
+      "id": "event-20250608194910-4",
+      "website": "https://www.instagram.com/otbsouthbank/",
+      "type": "casual"
+    },
+    {
+      "title": "London Women Chess Club",
+      "recurring": "Weekly",
+      "start": "2025-06-28T14:00:00",
+      "end": "2025-06-28T18:00:00",
+      "description": "Weekly social casual chess for women, non-binary players, and girls. All skill levels welcome! Coaching sessions, friendly games, and socializing. Building a safe and engaging space for women in chess.",
+      "location": [
+        51.5287,
+        -0.1232
+      ],
+      "contact": "info@londonwomenchess.org.uk",
+      "id": "event-20250608194910-5",
+      "website": "https://www.londonwomenchess.org.uk/",
+      "type": "club"
+    },
+    {
+      "title": "Muswell Hill FIDE Rapid",
+      "recurring": "Monthly",
+      "start": "2025-06-17T10:30:00",
+      "end": "2025-06-17T14:30:00",
+      "description": "FIDE and ECF rated rapid chess tournament at The Clissold Arms. Open to all players, multiple rounds with prizes for 1st (£100), 2nd (£50), and rating categories. Professional tournament organization.",
+      "location": [
+        51.588,
+        -0.1442
+      ],
+      "contact": "adam@chessengland.com",
+      "id": "event-20250608194910-6",
+      "website": "https://sites.google.com/view/chessengland",
+      "type": "tournament"
+    },
+    {
+      "title": "Golders Green FIDE Rapid",
+      "recurring": "Monthly",
+      "start": "2025-06-14T11:00:00",
+      "end": "2025-06-14T15:00:00",
+      "description": "6-round FIDE and ECF rated tournaments with four sections: Open, Under 1900, Under 1600, and ECF Under 1100. Must be ECF Gold/Platinum member or pay £15 supplement.",
+      "location": [
+        51.5774,
+        -0.1953
+      ],
+      "contact": "adam@chessengland.com",
+      "id": "event-20250608194910-7",
+      "website": "https://sites.google.com/view/chessengland",
+      "type": "tournament"
+    },
+    {
+      "title": "Hendon Chess Club Blitz",
+      "recurring": "Monthly",
+      "start": "2025-06-05T19:30:00",
+      "end": "2025-06-05T23:30:00",
+      "description": "Monthly FIDE and ECF rated blitz tournament at Cumberland Lawn Tennis Club. 19:30-22:00, anyone can play. Five minutes walk from Finchley Road & Frognal Station.",
+      "location": [
+        51.5469,
+        -0.1906
+      ],
+      "contact": "adam@chessengland.com",
+      "id": "event-20250608194910-8",
+      "website": "https://sites.google.com/view/chessengland",
+      "type": "tournament"
+    },
+    {
+      "title": "V Mindsports International Festival",
+      "recurring": "No, one-time event",
+      "start": "2025-08-13T09:00:00",
+      "end": "2025-08-13T13:00:00",
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "contact": "info@londonchessknights.com",
+      "id": "event-20250608194910-9",
+      "website": "https://form.jotform.com/250984116760359",
+      "type": "tournament"
+    },
+    {
+      "title": "Casual Chess Cafe",
+      "recurring": "Weekly",
+      "start": "2025-06-15T14:00:00",
+      "end": "2025-06-15T18:00:00",
+      "description": "Diverse, sociable chess for everyone in central London. Mixed-gender lessons, courses and events promoting equality and diversity. Free and paid chess lessons available.",
+      "location": [
+        51.5074,
+        -0.1278
+      ],
+      "contact": "casualchesscafe@gmail.com",
+      "id": "event-20250608194910-10",
+      "website": "http://casualchess.org/",
+      "type": "casual"
+    },
+    {
+      "title": "Chess at Paddington Library",
+      "recurring": "Weekly",
+      "start": "2025-06-15T12:00:00",
+      "end": "2025-06-15T16:00:00",
+      "description": "Free chess sessions at Paddington Library. Open to all ages and skill levels. Library provides sets and boards. Great introduction to chess for beginners and casual play for experienced players.",
+      "location": [
+        51.5176,
+        -0.1755
+      ],
+      "contact": "paddington.library@westminster.gov.uk",
+      "id": "event-20250608194910-11",
+      "website": "https://www.eventbrite.co.uk/",
+      "type": "casual"
+    },
+    {
+      "title": "London Chess League Weekender",
+      "recurring": "Monthly",
+      "start": "2025-07-25T18:30:00",
+      "end": "2025-07-25T22:30:00",
+      "description": "Three 5-round FIDE and ECF rated tournaments plus ECF Under 1400 section. Four sections: Open, U2000, U1650, and U1400. Professional weekend tournament format at Mindsports Centre.",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "contact": "adam@chessengland.com",
+      "id": "event-20250608194910-12",
+      "website": "https://sites.google.com/view/chessengland",
+      "type": "tournament"
+    },
+    {
+      "title": "Charlotte Chess Center Tuesday Night Action",
+      "recurring": "Weekly",
+      "start": "2025-06-10T19:00:00",
+      "end": "2025-06-10T23:00:00",
+      "description": "US Chess-rated game every Tuesday night, completely free for CCC members",
+      "location": [
+        35.2271,
+        -80.8431
+      ],
+      "contact": "",
+      "id": "event-20250608194910-13",
+      "website": "https://www.charlottechesscenter.org",
+      "type": "club"
+    },
+    {
+      "title": "Weekly USCF-Rated Online Tournaments",
+      "recurring": "Weekly",
+      "start": "2025-06-11T19:00:00",
+      "end": "2025-06-11T23:00:00",
+      "description": "Weekly online tournaments by DMVchess.com since March 2020",
+      "location": [
+        38.9072,
+        -77.0369
+      ],
+      "contact": "",
+      "id": "event-20250608194910-14",
+      "website": "https://www.dmvchess.com",
+      "type": "online"
+    },
+    {
+      "title": "Charlotte Chess Center Wednesday Action Quads",
+      "recurring": "Weekly",
+      "start": "2025-06-11T18:00:00",
+      "end": "2025-06-11T22:00:00",
+      "description": "3 round quad tournament grouping players by skill level",
+      "location": [
+        35.2271,
+        -80.8431
+      ],
+      "contact": "",
+      "id": "event-20250608194910-15",
+      "website": "https://www.charlottechesscenter.org",
+      "type": "club"
+    },
+    {
+      "title": "4 Rated Games Friday",
+      "recurring": "Weekly",
+      "start": "2025-06-13T19:00:00",
+      "end": "2025-06-13T23:00:00",
+      "description": "4 USCF Rated Games, 25 minutes + 5 second increment",
+      "location": [
+        39.7684,
+        -86.1581
+      ],
+      "contact": "",
+      "id": "event-20250608194910-16",
+      "website": "https://www.bcchessclub.com",
+      "type": "club"
+    },
+    {
+      "title": "Charlotte Chess Center Friday Action Quads - South",
+      "recurring": "Weekly",
+      "start": "2025-06-13T18:00:00",
+      "end": "2025-06-13T22:00:00",
+      "description": "Three round tournament for scholastic K-12 players",
+      "location": [
+        35.2271,
+        -80.8431
+      ],
+      "contact": "",
+      "id": "event-20250608194910-17",
+      "website": "https://www.charlottechesscenter.org",
+      "type": "club"
+    },
+    {
+      "title": "Charlotte Chess Center Sunday Action Quads",
+      "recurring": "Weekly",
+      "start": "2025-06-15T14:00:00",
+      "end": "2025-06-15T18:00:00",
+      "description": "Three round tournament for scholastic K-12 players",
+      "location": [
+        35.2271,
+        -80.8431
+      ],
+      "contact": "",
+      "id": "event-20250608194910-18",
+      "website": "https://www.charlottechesscenter.org",
+      "type": "club"
+    },
+    {
+      "title": "Rated Game of the Week",
+      "recurring": "Weekly",
+      "start": "2025-06-10T19:30:00",
+      "end": "2025-06-10T23:30:00",
+      "description": "Tuesday nights G60+5 time control, first 50 players",
+      "location": [
+        34.0232,
+        -84.3616
+      ],
+      "contact": "",
+      "id": "event-20250608194910-19",
+      "website": "https://www.chesszone.com",
+      "type": "club"
+    },
+    {
+      "title": "Long Island Chess Central Blitz Championship",
+      "recurring": "Monthly",
+      "start": "2025-06-14T14:00:00",
+      "end": "2025-06-14T18:00:00",
+      "description": "Monthly blitz tournament, online format",
+      "location": [
+        40.7589,
+        -73.2023
+      ],
+      "contact": "",
+      "id": "event-20250608194910-20",
+      "website": "https://www.lichesscentral.com",
+      "type": "tournament"
+    },
+    {
+      "title": "PLANO SWISS Tournament",
+      "recurring": "Monthly",
+      "start": "2025-06-14T13:00:00",
+      "end": "2025-06-14T17:00:00",
+      "description": "Four-round G/30;d5 tournament at Texas Chess Center",
+      "location": [
+        33.0198,
+        -96.6989
+      ],
+      "contact": "",
+      "id": "event-20250608194910-21",
+      "website": "https://www.texaschesscenter.com",
+      "type": "tournament"
+    },
+    {
+      "title": "Chess Knight Weekly Blitz",
+      "recurring": "Weekly",
+      "start": "2025-06-12T19:00:00",
+      "end": "2025-06-12T23:00:00",
+      "description": "Fast-paced blitz tournament, 7-9pm every Thursday",
+      "location": [
+        40.3916,
+        -111.8507
+      ],
+      "contact": "",
+      "id": "event-20250608194910-22",
+      "website": "https://www.chessnight.com",
+      "type": "club"
+    },
+    {
+      "title": "Ballantyne Chess Klub King's Indian",
+      "recurring": "Weekly",
+      "start": "2025-06-12T19:00:00",
+      "end": "2025-06-12T23:00:00",
+      "description": "One game Thursday evenings, 60 minutes + 5 second delay",
+      "location": [
+        35.051,
+        -80.8414
+      ],
+      "contact": "",
+      "id": "event-20250608194910-23",
+      "website": "https://www.chessklub.com",
+      "type": "club"
+    },
+    {
+      "title": "Gainesville Wednesday Night Rapid",
+      "recurring": "Weekly",
+      "start": "2025-06-11T18:30:00",
+      "end": "2025-06-11T22:30:00",
+      "description": "FREE Quick-Rated three-round event, G/20 time control",
+      "location": [
+        29.6516,
+        -82.3248
+      ],
+      "contact": "",
+      "id": "event-20250608194910-24",
+      "website": "https://www.gainesvillechess.org",
+      "type": "club"
+    },
+    {
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "recurring": "No, one-time event",
+      "start": "2025-06-30T10:00:00",
+      "end": "2025-06-30T14:00:00",
+      "description": "International rapid and blitz championship in Zagreb",
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "contact": "",
+      "id": "event-20250608194910-25",
+      "website": "https://www.chess.hr",
+      "type": "tournament"
+    },
+    {
+      "title": "Marshall Chess Club Monday Tournament",
+      "recurring": "Weekly",
+      "start": "2025-06-30T19:00:00",
+      "end": "2025-06-30T23:00:00",
+      "description": "Historic Marshall Chess Club weekly tournament",
+      "location": [
+        40.7589,
+        -73.9441
+      ],
+      "contact": "",
+      "id": "event-20250608194910-26",
+      "website": "https://www.marshallchessclub.org",
+      "type": "club"
+    },
+    {
+      "title": "Antelope Valley Chess Club Monthly",
+      "recurring": "Monthly",
+      "start": "2025-07-05T10:00:00",
+      "end": "2025-07-05T14:00:00",
+      "description": "Four rounds Swiss system, 45 minutes + 5 seconds",
+      "location": [
+        34.6868,
+        -118.1542
+      ],
+      "contact": "",
+      "id": "event-20250608194910-27",
+      "website": "https://www.avchess.org",
+      "type": "club"
+    },
+    {
+      "title": "SRC Online Rated U1600 Championship",
+      "recurring": "No, one-time event",
+      "start": "2025-07-13T14:00:00",
+      "end": "2025-07-13T18:00:00",
+      "description": "Swiss tournament for players under 1600 rating",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "contact": "",
+      "id": "event-20250608194910-28",
+      "website": "https://www.startrightchess.com",
+      "type": "online"
+    },
     {
       "location": [
         51.50444367833786,
         -0.11247701334375776
       ],
       "recurring": "Weekly",
-      "website": "https://www.instagram.com/otbsouthbank/",
-      "description": "Free very casual chess, every level welcome. Bring your own drinks.",
+      "sourceTimestamp": "6/8/2025 14:13:49",
       "start": "2025-06-06T18:00:00",
-      "end": "2025-06-06T22:00:00",
-      "type": "casual",
+      "id": "event-ECCF968A",
       "contact": "",
-      "id": "event-20250608173830-1",
-      "title": "OTB Southbank"
+      "title": "OTB Southbank",
+      "description": "Free very casual chess, every level welcome. Bring your own drinks.",
+      "website": "https://www.instagram.com/otbsouthbank/",
+      "end": "2025-06-06T22:00:00",
+      "type": "casual"
+    },
+    {
+      "sourceTimestamp": "6/8/2025 19:25:34",
+      "title": "TEST EVENT",
+      "recurring": "Weekly",
+      "start": "6/14/2025",
+      "description": "FRIENDLY TEST",
+      "contact": "",
+      "id": "event-6F7B1861",
+      "locationText": "Manchester",
+      "website": "Google.com",
+      "time": "7pm",
+      "type": "workshop"
     },
     {
       "location": [
@@ -23,14 +453,15 @@
         -0.099
       ],
       "recurring": "Weekly",
-      "website": "https://www.meetup.com/london-chess-club/",
-      "description": "Join our friendly chess club every Sunday morning! All skill levels welcome, from beginners to masters. Play starts from 11am and finishes around 4pm. Bring your own board if possible, but we'll provide one if needed. Follow us @london_chess_club",
+      "sourceTimestamp": "6/8/2025 14:20:32",
       "start": "2025-06-08T11:00:00",
-      "end": "2025-06-08T15:00:00",
-      "type": "casual",
+      "id": "event-D54647FD",
       "contact": "organizers@londonchessclub.com",
-      "id": "event-20250608173830-2",
-      "title": "London Chess Club - Chess & Coffee"
+      "title": "London Chess Club - Chess & Coffee",
+      "description": "Join our friendly chess club every Sunday morning! All skill levels welcome, from beginners to masters. Play starts from 11am and finishes around 4pm. Bring your own board if possible, but we'll provide one if needed. Follow us @london_chess_club",
+      "website": "https://www.meetup.com/london-chess-club/",
+      "end": "2025-06-08T15:00:00",
+      "type": "casual"
     },
     {
       "location": [
@@ -38,14 +469,15 @@
         -0.1172
       ],
       "recurring": "Weekly",
-      "website": "https://www.instagram.com/otbsouthbank/",
-      "description": "Cozy coffeehouse chess every Friday from 6-9pm at Coffee Zee London. Warm environment for casual chess with great coffee and toasted sandwiches. Setup by London Chess Community - chess should be for everyone no matter skill level.",
+      "sourceTimestamp": "6/8/2025 14:21:15",
       "start": "2025-06-06T18:00:00",
-      "end": "2025-06-06T22:00:00",
-      "type": "casual",
+      "id": "event-FFB478C5",
       "contact": "chess@coffeezee.com",
-      "id": "event-20250608173830-3",
-      "title": "Coffee Zee Friday Chess"
+      "title": "Coffee Zee Friday Chess",
+      "description": "Cozy coffeehouse chess every Friday from 6-9pm at Coffee Zee London. Warm environment for casual chess with great coffee and toasted sandwiches. Setup by London Chess Community - chess should be for everyone no matter skill level.",
+      "website": "https://www.instagram.com/otbsouthbank/",
+      "end": "2025-06-06T22:00:00",
+      "type": "casual"
     },
     {
       "location": [
@@ -53,14 +485,15 @@
         -0.1232
       ],
       "recurring": "Weekly",
-      "website": "https://www.londonwomenchess.org.uk/",
-      "description": "Weekly social casual chess for women, non-binary players, and girls. All skill levels welcome! Coaching sessions, friendly games, and socializing. Building a safe and engaging space for women in chess.",
+      "sourceTimestamp": "6/8/2025 14:22:01",
       "start": "2025-06-28T14:00:00",
-      "end": "2025-06-28T18:00:00",
-      "type": "club",
+      "id": "event-EE218DB1",
       "contact": "info@londonwomenchess.org.uk",
-      "id": "event-20250608173830-4",
-      "title": "London Women Chess Club"
+      "title": "London Women Chess Club",
+      "description": "Weekly social casual chess for women, non-binary players, and girls. All skill levels welcome! Coaching sessions, friendly games, and socializing. Building a safe and engaging space for women in chess.",
+      "website": "https://www.londonwomenchess.org.uk/",
+      "end": "2025-06-28T18:00:00",
+      "type": "club"
     },
     {
       "location": [
@@ -68,14 +501,15 @@
         -0.1442
       ],
       "recurring": "Monthly",
-      "website": "https://sites.google.com/view/chessengland",
-      "description": "FIDE and ECF rated rapid chess tournament at The Clissold Arms. Open to all players, multiple rounds with prizes for 1st (£100), 2nd (£50), and rating categories. Professional tournament organization.",
+      "sourceTimestamp": "6/8/2025 14:22:45",
       "start": "2025-06-17T10:30:00",
-      "end": "2025-06-17T14:30:00",
-      "type": "tournament",
+      "id": "event-AFA9BDC4",
       "contact": "adam@chessengland.com",
-      "id": "event-20250608173830-5",
-      "title": "Muswell Hill FIDE Rapid"
+      "title": "Muswell Hill FIDE Rapid",
+      "description": "FIDE and ECF rated rapid chess tournament at The Clissold Arms. Open to all players, multiple rounds with prizes for 1st (£100), 2nd (£50), and rating categories. Professional tournament organization.",
+      "website": "https://sites.google.com/view/chessengland",
+      "end": "2025-06-17T14:30:00",
+      "type": "tournament"
     },
     {
       "location": [
@@ -83,14 +517,15 @@
         -0.1953
       ],
       "recurring": "Monthly",
-      "website": "https://sites.google.com/view/chessengland",
-      "description": "6-round FIDE and ECF rated tournaments with four sections: Open, Under 1900, Under 1600, and ECF Under 1100. Must be ECF Gold/Platinum member or pay £15 supplement.",
+      "sourceTimestamp": "6/8/2025 14:23:20",
       "start": "2025-06-14T11:00:00",
-      "end": "2025-06-14T15:00:00",
-      "type": "tournament",
+      "id": "event-6D51F0BF",
       "contact": "adam@chessengland.com",
-      "id": "event-20250608173830-6",
-      "title": "Golders Green FIDE Rapid"
+      "title": "Golders Green FIDE Rapid",
+      "description": "6-round FIDE and ECF rated tournaments with four sections: Open, Under 1900, Under 1600, and ECF Under 1100. Must be ECF Gold/Platinum member or pay £15 supplement.",
+      "website": "https://sites.google.com/view/chessengland",
+      "end": "2025-06-14T15:00:00",
+      "type": "tournament"
     },
     {
       "location": [
@@ -98,14 +533,15 @@
         -0.1906
       ],
       "recurring": "Monthly",
-      "website": "https://sites.google.com/view/chessengland",
-      "description": "Monthly FIDE and ECF rated blitz tournament at Cumberland Lawn Tennis Club. 19:30-22:00, anyone can play. Five minutes walk from Finchley Road & Frognal Station.",
+      "sourceTimestamp": "6/8/2025 14:24:05",
       "start": "2025-06-05T19:30:00",
-      "end": "2025-06-05T23:30:00",
-      "type": "tournament",
+      "id": "event-510735DE",
       "contact": "adam@chessengland.com",
-      "id": "event-20250608173830-7",
-      "title": "Hendon Chess Club Blitz"
+      "title": "Hendon Chess Club Blitz",
+      "description": "Monthly FIDE and ECF rated blitz tournament at Cumberland Lawn Tennis Club. 19:30-22:00, anyone can play. Five minutes walk from Finchley Road & Frognal Station.",
+      "website": "https://sites.google.com/view/chessengland",
+      "end": "2025-06-05T23:30:00",
+      "type": "tournament"
     },
     {
       "location": [
@@ -113,14 +549,15 @@
         -0.2358
       ],
       "recurring": "No, one-time event",
-      "website": "https://form.jotform.com/250984116760359",
-      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "sourceTimestamp": "6/8/2025 14:24:50",
       "start": "2025-08-13T09:00:00",
-      "end": "2025-08-13T13:00:00",
-      "type": "tournament",
+      "id": "event-1DD48844",
       "contact": "info@londonchessknights.com",
-      "id": "event-20250608173830-8",
-      "title": "V Mindsports International Festival"
+      "title": "V Mindsports International Festival",
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "website": "https://form.jotform.com/250984116760359",
+      "end": "2025-08-13T13:00:00",
+      "type": "tournament"
     },
     {
       "location": [
@@ -128,14 +565,15 @@
         -0.1278
       ],
       "recurring": "Weekly",
-      "website": "http://casualchess.org/",
-      "description": "Diverse, sociable chess for everyone in central London. Mixed-gender lessons, courses and events promoting equality and diversity. Free and paid chess lessons available.",
+      "sourceTimestamp": "6/8/2025 14:25:30",
       "start": "2025-06-15T14:00:00",
-      "end": "2025-06-15T18:00:00",
-      "type": "casual",
+      "id": "event-2A391695",
       "contact": "casualchesscafe@gmail.com",
-      "id": "event-20250608173830-9",
-      "title": "Casual Chess Cafe"
+      "title": "Casual Chess Cafe",
+      "description": "Diverse, sociable chess for everyone in central London. Mixed-gender lessons, courses and events promoting equality and diversity. Free and paid chess lessons available.",
+      "website": "http://casualchess.org/",
+      "end": "2025-06-15T18:00:00",
+      "type": "casual"
     },
     {
       "location": [
@@ -143,14 +581,15 @@
         -0.1755
       ],
       "recurring": "Weekly",
-      "website": "https://www.eventbrite.co.uk/",
-      "description": "Free chess sessions at Paddington Library. Open to all ages and skill levels. Library provides sets and boards. Great introduction to chess for beginners and casual play for experienced players.",
+      "sourceTimestamp": "6/8/2025 14:26:10",
       "start": "2025-06-15T12:00:00",
-      "end": "2025-06-15T16:00:00",
-      "type": "casual",
+      "id": "event-3ED9CEA4",
       "contact": "paddington.library@westminster.gov.uk",
-      "id": "event-20250608173831-10",
-      "title": "Chess at Paddington Library"
+      "title": "Chess at Paddington Library",
+      "description": "Free chess sessions at Paddington Library. Open to all ages and skill levels. Library provides sets and boards. Great introduction to chess for beginners and casual play for experienced players.",
+      "website": "https://www.eventbrite.co.uk/",
+      "end": "2025-06-15T16:00:00",
+      "type": "casual"
     },
     {
       "location": [
@@ -158,14 +597,15 @@
         -0.2358
       ],
       "recurring": "Monthly",
-      "website": "https://sites.google.com/view/chessengland",
-      "description": "Three 5-round FIDE and ECF rated tournaments plus ECF Under 1400 section. Four sections: Open, U2000, U1650, and U1400. Professional weekend tournament format at Mindsports Centre.",
+      "sourceTimestamp": "6/8/2025 14:26:55",
       "start": "2025-07-25T18:30:00",
-      "end": "2025-07-25T22:30:00",
-      "type": "tournament",
+      "id": "event-148BBDD5",
       "contact": "adam@chessengland.com",
-      "id": "event-20250608173831-11",
-      "title": "London Chess League Weekender"
+      "title": "London Chess League Weekender",
+      "description": "Three 5-round FIDE and ECF rated tournaments plus ECF Under 1400 section. Four sections: Open, U2000, U1650, and U1400. Professional weekend tournament format at Mindsports Centre.",
+      "website": "https://sites.google.com/view/chessengland",
+      "end": "2025-07-25T22:30:00",
+      "type": "tournament"
     },
     {
       "location": [
@@ -173,14 +613,15 @@
         -80.8431
       ],
       "recurring": "Weekly",
-      "website": "https://www.charlottechesscenter.org",
-      "description": "US Chess-rated game every Tuesday night, completely free for CCC members",
+      "sourceTimestamp": "6/8/2025 14:13:50",
       "start": "2025-06-10T19:00:00",
-      "end": "2025-06-10T23:00:00",
-      "type": "club",
+      "id": "event-7C37DD9E",
       "contact": "",
-      "id": "event-20250608173831-12",
-      "title": "Charlotte Chess Center Tuesday Night Action"
+      "title": "Charlotte Chess Center Tuesday Night Action",
+      "description": "US Chess-rated game every Tuesday night, completely free for CCC members",
+      "website": "https://www.charlottechesscenter.org",
+      "end": "2025-06-10T23:00:00",
+      "type": "club"
     },
     {
       "location": [
@@ -188,14 +629,15 @@
         -77.0369
       ],
       "recurring": "Weekly",
-      "website": "https://www.dmvchess.com",
-      "description": "Weekly online tournaments by DMVchess.com since March 2020",
+      "sourceTimestamp": "6/8/2025 14:13:51",
       "start": "2025-06-11T19:00:00",
-      "end": "2025-06-11T23:00:00",
-      "type": "online",
+      "id": "event-C12D8631",
       "contact": "",
-      "id": "event-20250608173831-13",
-      "title": "Weekly USCF-Rated Online Tournaments"
+      "title": "Weekly USCF-Rated Online Tournaments",
+      "description": "Weekly online tournaments by DMVchess.com since March 2020",
+      "website": "https://www.dmvchess.com",
+      "end": "2025-06-11T23:00:00",
+      "type": "online"
     },
     {
       "location": [
@@ -203,14 +645,15 @@
         -80.8431
       ],
       "recurring": "Weekly",
-      "website": "https://www.charlottechesscenter.org",
-      "description": "3 round quad tournament grouping players by skill level",
+      "sourceTimestamp": "6/8/2025 14:13:52",
       "start": "2025-06-11T18:00:00",
-      "end": "2025-06-11T22:00:00",
-      "type": "club",
+      "id": "event-9D49E8C6",
       "contact": "",
-      "id": "event-20250608173831-14",
-      "title": "Charlotte Chess Center Wednesday Action Quads"
+      "title": "Charlotte Chess Center Wednesday Action Quads",
+      "description": "3 round quad tournament grouping players by skill level",
+      "website": "https://www.charlottechesscenter.org",
+      "end": "2025-06-11T22:00:00",
+      "type": "club"
     },
     {
       "location": [
@@ -218,14 +661,15 @@
         -86.1581
       ],
       "recurring": "Weekly",
-      "website": "https://www.bcchessclub.com",
-      "description": "4 USCF Rated Games, 25 minutes + 5 second increment",
+      "sourceTimestamp": "6/8/2025 14:13:53",
       "start": "2025-06-13T19:00:00",
+      "id": "event-7CF059FD",
+      "contact": "",
+      "title": "4 Rated Games Friday",
+      "description": "4 USCF Rated Games, 25 minutes + 5 second increment",
+      "website": "https://www.bcchessclub.com",
       "end": "2025-06-13T23:00:00",
-      "type": "club",
-      "contact": "",
-      "id": "event-20250608173831-15",
-      "title": "4 Rated Games Friday"
+      "type": "club"
     },
     {
       "location": [
@@ -233,14 +677,15 @@
         -80.8431
       ],
       "recurring": "Weekly",
-      "website": "https://www.charlottechesscenter.org",
-      "description": "Three round tournament for scholastic K-12 players",
+      "sourceTimestamp": "6/8/2025 14:13:54",
       "start": "2025-06-13T18:00:00",
-      "end": "2025-06-13T22:00:00",
-      "type": "club",
+      "id": "event-DB633F7C",
       "contact": "",
-      "id": "event-20250608173831-16",
-      "title": "Charlotte Chess Center Friday Action Quads - South"
+      "title": "Charlotte Chess Center Friday Action Quads - South",
+      "description": "Three round tournament for scholastic K-12 players",
+      "website": "https://www.charlottechesscenter.org",
+      "end": "2025-06-13T22:00:00",
+      "type": "club"
     },
     {
       "location": [
@@ -248,14 +693,15 @@
         -80.8431
       ],
       "recurring": "Weekly",
-      "website": "https://www.charlottechesscenter.org",
-      "description": "Three round tournament for scholastic K-12 players",
+      "sourceTimestamp": "6/8/2025 14:13:55",
       "start": "2025-06-15T14:00:00",
-      "end": "2025-06-15T18:00:00",
-      "type": "club",
+      "id": "event-A7BE9210",
       "contact": "",
-      "id": "event-20250608173831-17",
-      "title": "Charlotte Chess Center Sunday Action Quads"
+      "title": "Charlotte Chess Center Sunday Action Quads",
+      "description": "Three round tournament for scholastic K-12 players",
+      "website": "https://www.charlottechesscenter.org",
+      "end": "2025-06-15T18:00:00",
+      "type": "club"
     },
     {
       "location": [
@@ -263,14 +709,15 @@
         -84.3616
       ],
       "recurring": "Weekly",
-      "website": "https://www.chesszone.com",
-      "description": "Tuesday nights G60+5 time control, first 50 players",
+      "sourceTimestamp": "6/8/2025 14:13:56",
       "start": "2025-06-10T19:30:00",
-      "end": "2025-06-10T23:30:00",
-      "type": "club",
+      "id": "event-01D354F6",
       "contact": "",
-      "id": "event-20250608173831-18",
-      "title": "Rated Game of the Week"
+      "title": "Rated Game of the Week",
+      "description": "Tuesday nights G60+5 time control, first 50 players",
+      "website": "https://www.chesszone.com",
+      "end": "2025-06-10T23:30:00",
+      "type": "club"
     },
     {
       "location": [
@@ -278,14 +725,15 @@
         -73.2023
       ],
       "recurring": "Monthly",
-      "website": "https://www.lichesscentral.com",
-      "description": "Monthly blitz tournament, online format",
+      "sourceTimestamp": "6/8/2025 14:13:57",
       "start": "2025-06-14T14:00:00",
-      "end": "2025-06-14T18:00:00",
-      "type": "tournament",
+      "id": "event-D687DA4D",
       "contact": "",
-      "id": "event-20250608173831-19",
-      "title": "Long Island Chess Central Blitz Championship"
+      "title": "Long Island Chess Central Blitz Championship",
+      "description": "Monthly blitz tournament, online format",
+      "website": "https://www.lichesscentral.com",
+      "end": "2025-06-14T18:00:00",
+      "type": "tournament"
     },
     {
       "location": [
@@ -293,14 +741,15 @@
         -96.6989
       ],
       "recurring": "Monthly",
-      "website": "https://www.texaschesscenter.com",
-      "description": "Four-round G/30;d5 tournament at Texas Chess Center",
+      "sourceTimestamp": "6/8/2025 14:13:58",
       "start": "2025-06-14T13:00:00",
-      "end": "2025-06-14T17:00:00",
-      "type": "tournament",
+      "id": "event-119DAD59",
       "contact": "",
-      "id": "event-20250608173831-20",
-      "title": "PLANO SWISS Tournament"
+      "title": "PLANO SWISS Tournament",
+      "description": "Four-round G/30;d5 tournament at Texas Chess Center",
+      "website": "https://www.texaschesscenter.com",
+      "end": "2025-06-14T17:00:00",
+      "type": "tournament"
     },
     {
       "location": [
@@ -308,14 +757,15 @@
         -111.8507
       ],
       "recurring": "Weekly",
-      "website": "https://www.chessnight.com",
-      "description": "Fast-paced blitz tournament, 7-9pm every Thursday",
+      "sourceTimestamp": "6/8/2025 14:13:59",
       "start": "2025-06-12T19:00:00",
-      "end": "2025-06-12T23:00:00",
-      "type": "club",
+      "id": "event-E22795FA",
       "contact": "",
-      "id": "event-20250608173831-21",
-      "title": "Chess Knight Weekly Blitz"
+      "title": "Chess Knight Weekly Blitz",
+      "description": "Fast-paced blitz tournament, 7-9pm every Thursday",
+      "website": "https://www.chessnight.com",
+      "end": "2025-06-12T23:00:00",
+      "type": "club"
     },
     {
       "location": [
@@ -323,14 +773,15 @@
         -80.8414
       ],
       "recurring": "Weekly",
-      "website": "https://www.chessklub.com",
-      "description": "One game Thursday evenings, 60 minutes + 5 second delay",
+      "sourceTimestamp": "6/8/2025 14:14:00",
       "start": "2025-06-12T19:00:00",
-      "end": "2025-06-12T23:00:00",
-      "type": "club",
+      "id": "event-B60CED97",
       "contact": "",
-      "id": "event-20250608173831-22",
-      "title": "Ballantyne Chess Klub King's Indian"
+      "title": "Ballantyne Chess Klub King's Indian",
+      "description": "One game Thursday evenings, 60 minutes + 5 second delay",
+      "website": "https://www.chessklub.com",
+      "end": "2025-06-12T23:00:00",
+      "type": "club"
     },
     {
       "location": [
@@ -338,14 +789,15 @@
         -82.3248
       ],
       "recurring": "Weekly",
-      "website": "https://www.gainesvillechess.org",
-      "description": "FREE Quick-Rated three-round event, G/20 time control",
+      "sourceTimestamp": "6/8/2025 14:14:01",
       "start": "2025-06-11T18:30:00",
-      "end": "2025-06-11T22:30:00",
-      "type": "club",
+      "id": "event-6803DCCC",
       "contact": "",
-      "id": "event-20250608173831-23",
-      "title": "Gainesville Wednesday Night Rapid"
+      "title": "Gainesville Wednesday Night Rapid",
+      "description": "FREE Quick-Rated three-round event, G/20 time control",
+      "website": "https://www.gainesvillechess.org",
+      "end": "2025-06-11T22:30:00",
+      "type": "club"
     },
     {
       "location": [
@@ -353,14 +805,15 @@
         15.9819
       ],
       "recurring": "No, one-time event",
-      "website": "https://www.chess.hr",
-      "description": "International rapid and blitz championship in Zagreb",
+      "sourceTimestamp": "6/8/2025 14:14:02",
       "start": "2025-06-30T10:00:00",
-      "end": "2025-06-30T14:00:00",
-      "type": "tournament",
+      "id": "event-3880154E",
       "contact": "",
-      "id": "event-20250608173831-24",
-      "title": "SuperUnited Croatia Rapid And Blitz"
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "description": "International rapid and blitz championship in Zagreb",
+      "website": "https://www.chess.hr",
+      "end": "2025-06-30T14:00:00",
+      "type": "tournament"
     },
     {
       "location": [
@@ -368,14 +821,15 @@
         -73.9441
       ],
       "recurring": "Weekly",
-      "website": "https://www.marshallchessclub.org",
-      "description": "Historic Marshall Chess Club weekly tournament",
+      "sourceTimestamp": "6/8/2025 14:14:03",
       "start": "2025-06-30T19:00:00",
-      "end": "2025-06-30T23:00:00",
-      "type": "club",
+      "id": "event-6DD2D6AE",
       "contact": "",
-      "id": "event-20250608173831-25",
-      "title": "Marshall Chess Club Monday Tournament"
+      "title": "Marshall Chess Club Monday Tournament",
+      "description": "Historic Marshall Chess Club weekly tournament",
+      "website": "https://www.marshallchessclub.org",
+      "end": "2025-06-30T23:00:00",
+      "type": "club"
     },
     {
       "location": [
@@ -383,14 +837,15 @@
         -118.1542
       ],
       "recurring": "Monthly",
-      "website": "https://www.avchess.org",
-      "description": "Four rounds Swiss system, 45 minutes + 5 seconds",
+      "sourceTimestamp": "6/8/2025 14:14:04",
       "start": "2025-07-05T10:00:00",
-      "end": "2025-07-05T14:00:00",
-      "type": "club",
+      "id": "event-9997B2A3",
       "contact": "",
-      "id": "event-20250608173831-26",
-      "title": "Antelope Valley Chess Club Monthly"
+      "title": "Antelope Valley Chess Club Monthly",
+      "description": "Four rounds Swiss system, 45 minutes + 5 seconds",
+      "website": "https://www.avchess.org",
+      "end": "2025-07-05T14:00:00",
+      "type": "club"
     },
     {
       "location": [
@@ -398,14 +853,23 @@
         -74.006
       ],
       "recurring": "No, one-time event",
-      "website": "https://www.startrightchess.com",
-      "description": "Swiss tournament for players under 1600 rating",
+      "sourceTimestamp": "6/8/2025 14:14:05",
       "start": "2025-07-13T14:00:00",
-      "end": "2025-07-13T18:00:00",
-      "type": "online",
+      "id": "event-4CECEDB4",
       "contact": "",
-      "id": "event-20250608173831-27",
-      "title": "SRC Online Rated U1600 Championship"
+      "title": "SRC Online Rated U1600 Championship",
+      "description": "Swiss tournament for players under 1600 rating",
+      "website": "https://www.startrightchess.com",
+      "end": "2025-07-13T18:00:00",
+      "type": "online"
     }
-  ]
+  ],
+  "processingSummary": {
+    "duplicatesSkipped": 28,
+    "totalEvents": 56,
+    "alreadyProcessed": 0,
+    "existingEventsPreserved": 56,
+    "newEvents": 0
+  },
+  "lastUpdated": "2025-06-08T20:24:27.767Z"
 }
