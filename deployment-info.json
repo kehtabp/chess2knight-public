@@ -1,7 +1,7 @@
 {
-  "buildTime": "2025-06-07T23:47:33Z",
-  "sourceCommit": "10aa231cf7278459f8e15e36739a28bcc68d39cc",
-  "buildNumber": "20",
+  "buildTime": "2025-06-08T00:22:32Z",
+  "sourceCommit": "106a7df54673efe4afcc9229e9ddb4faa3cefd57",
+  "buildNumber": "21",
   "minified": true,
   "branch": "main",
   "sourceRepo": "kehtabp/chess2knight",
