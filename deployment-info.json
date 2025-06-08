@@ -1,8 +1,11 @@
 {
-  "buildTime": "2025-06-08T01:04:32Z",
-  "sourceCommit": "116c04944e8a91024e08528ecf3ee596cc70cd5c",
-  "buildNumber": "24",
+  "buildTime": "2025-06-08T02:55:56Z",
+  "sourceCommit": "45845850ceaa87b7fd4639c725cd42cda1df2422",
+  "buildNumber": "30",
   "minified": true,
+  "consoleLogsRemoved": true,
+  "debuggerStatementsRemoved": true,
+  "deadCodeEliminated": true,
   "branch": "main",
   "sourceRepo": "kehtabp/chess2knight",
   "deployRepo": "kehtabp/chess2knight-public"
