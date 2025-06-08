@@ -110,5 +110,599 @@
             "instagram": "https://instagram.com/waterloochess"
         },
         "type": "club"
+    },
+    {
+        "id": "event-10",
+        "title": "New York Chess Championship",
+        "start": "2025-07-12T09:00:00",
+        "end": "2025-07-13T18:00:00",
+        "location": [40.7128, -74.0060],
+        "website": "https://www.nychess.org/championship",
+        "socials": {
+            "facebook": "https://facebook.com/nychess",
+            "twitter": "https://twitter.com/nychess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-11",
+        "title": "Washington Square Park Chess",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["sa", "su"],
+            "dtstart": "2025-06-07T12:00:00",
+            "until": "2025-09-30T18:00:00"
+        },
+        "location": [40.7308, -73.9973],
+        "website": "https://www.nychessclub.org/outdoor",
+        "type": "casual"
+    },
+    {
+        "id": "event-12",
+        "title": "Paris Chess Festival",
+        "start": "2025-08-15T10:00:00",
+        "end": "2025-08-17T20:00:00",
+        "location": [48.8566, 2.3522],
+        "website": "https://www.parisechecs.com/festival",
+        "socials": {
+            "facebook": "https://facebook.com/parisechecs",
+            "instagram": "https://instagram.com/parisechecs"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-13",
+        "title": "Berlin Chess Open",
+        "start": "2025-09-05T10:00:00",
+        "end": "2025-09-07T18:00:00",
+        "location": [52.5200, 13.4050],
+        "website": "https://www.berlinchess.de/open",
+        "socials": {
+            "twitter": "https://twitter.com/berlinchess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-14",
+        "title": "Moscow Chess Club",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["tu", "fr"],
+            "dtstart": "2025-06-03T19:00:00",
+            "until": "2025-12-31T22:00:00"
+        },
+        "location": [55.7558, 37.6176],
+        "website": "https://www.moscowchess.ru",
+        "type": "club"
+    },
+    {
+        "id": "event-15",
+        "title": "St. Petersburg Grandmaster Tournament",
+        "start": "2025-10-10T11:00:00",
+        "end": "2025-10-18T18:00:00",
+        "location": [59.9311, 30.3609],
+        "website": "https://www.spbchess.ru/gm-tournament",
+        "socials": {
+            "facebook": "https://facebook.com/spbchess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-16",
+        "title": "Tokyo Chess Championship",
+        "start": "2025-11-02T10:00:00",
+        "end": "2025-11-04T18:00:00",
+        "location": [35.6762, 139.6503],
+        "website": "https://www.japanchess.org/tokyo-championship",
+        "socials": {
+            "twitter": "https://twitter.com/japanchess",
+            "instagram": "https://instagram.com/japanchess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-17",
+        "title": "Shanghai Chess Meetup",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["sa"],
+            "dtstart": "2025-06-07T14:00:00",
+            "until": "2025-12-31T18:00:00"
+        },
+        "location": [31.2304, 121.4737],
+        "website": "https://www.shanghaimeetup.com/chess",
+        "type": "casual"
+    },
+    {
+        "id": "event-18",
+        "title": "Mumbai Chess Festival",
+        "start": "2025-12-05T09:00:00",
+        "end": "2025-12-08T19:00:00",
+        "location": [19.0760, 72.8777],
+        "website": "https://www.indiachess.org/mumbai-festival",
+        "socials": {
+            "facebook": "https://facebook.com/indiachess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-19",
+        "title": "Sydney Chess Open",
+        "start": "2025-06-20T10:00:00",
+        "end": "2025-06-22T18:00:00",
+        "location": [-33.8688, 151.2093],
+        "website": "https://www.chesssydney.com.au/open",
+        "socials": {
+            "twitter": "https://twitter.com/chesssydney"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-20",
+        "title": "Buenos Aires Chess Club",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["we"],
+            "dtstart": "2025-06-04T20:00:00",
+            "until": "2025-12-31T23:00:00"
+        },
+        "location": [-34.6118, -58.3960],
+        "website": "https://www.buenosaireschess.com.ar",
+        "type": "club"
+    },
+    {
+        "id": "event-21",
+        "title": "Rio Chess Tournament",
+        "start": "2025-07-25T10:00:00",
+        "end": "2025-07-27T18:00:00",
+        "location": [-22.9068, -43.1729],
+        "website": "https://www.riochess.com.br/tournament",
+        "socials": {
+            "instagram": "https://instagram.com/riochess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-22",
+        "title": "Toronto Chess Workshop",
+        "start": "2025-08-30T13:00:00",
+        "end": "2025-08-30T17:00:00",
+        "location": [43.6532, -79.3832],
+        "website": "https://www.torontochess.ca/workshop",
+        "type": "workshop"
+    },
+    {
+        "id": "event-23",
+        "title": "Vancouver Chess Meetup",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["su"],
+            "dtstart": "2025-06-08T15:00:00",
+            "until": "2025-10-31T18:00:00"
+        },
+        "location": [49.2827, -123.1207],
+        "website": "https://www.meetup.com/vancouver-chess",
+        "type": "casual"
+    },
+    {
+        "id": "event-24",
+        "title": "Mexico City Chess Open",
+        "start": "2025-09-12T09:00:00",
+        "end": "2025-09-14T19:00:00",
+        "location": [19.4326, -99.1332],
+        "website": "https://www.mexicochess.org/cdmx-open",
+        "socials": {
+            "facebook": "https://facebook.com/mexicochess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-25",
+        "title": "Cape Town Chess Club",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["th"],
+            "dtstart": "2025-06-05T18:30:00",
+            "until": "2025-12-31T21:30:00"
+        },
+        "location": [-33.9249, 18.4241],
+        "website": "https://www.capetownchess.co.za",
+        "type": "club"
+    },
+    {
+        "id": "event-26",
+        "title": "Stockholm Chess Festival",
+        "start": "2025-06-26T10:00:00",
+        "end": "2025-06-29T18:00:00",
+        "location": [59.3293, 18.0686],
+        "website": "https://www.stockholmchess.se/festival",
+        "socials": {
+            "instagram": "https://instagram.com/stockholmchess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-27",
+        "title": "Amsterdam Chess Café",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["fr"],
+            "dtstart": "2025-06-06T19:00:00",
+            "until": "2025-12-31T22:00:00"
+        },
+        "location": [52.3676, 4.9041],
+        "website": "https://www.chesscafe.nl",
+        "type": "casual"
+    },
+    {
+        "id": "event-28",
+        "title": "Vienna Chess Master Tournament",
+        "start": "2025-08-01T10:00:00",
+        "end": "2025-08-10T18:00:00",
+        "location": [48.2082, 16.3738],
+        "website": "https://www.viennachess.at/masters",
+        "socials": {
+            "facebook": "https://facebook.com/viennachess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-29",
+        "title": "Barcelona Chess Open",
+        "start": "2025-10-24T09:00:00",
+        "end": "2025-10-26T19:00:00",
+        "location": [41.3851, 2.1734],
+        "website": "https://www.barcelonachess.es/open",
+        "type": "tournament"
+    },
+    {
+        "id": "event-30",
+        "title": "Rome Chess Workshop",
+        "start": "2025-07-05T14:00:00",
+        "end": "2025-07-05T18:00:00",
+        "location": [41.9028, 12.4964],
+        "website": "https://www.romachess.it/workshop",
+        "socials": {
+            "instagram": "https://instagram.com/romachess"
+        },
+        "type": "workshop"
+    },
+    {
+        "id": "event-31",
+        "title": "Dublin Chess Society",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["mo"],
+            "dtstart": "2025-06-02T19:30:00",
+            "until": "2025-12-31T22:30:00"
+        },
+        "location": [53.3498, -6.2603],
+        "website": "https://www.dublinchess.ie",
+        "type": "club"
+    },
+    {
+        "id": "event-32",
+        "title": "Edinburgh Chess Festival",
+        "start": "2025-08-14T10:00:00",
+        "end": "2025-08-17T18:00:00",
+        "location": [55.9533, -3.1883],
+        "website": "https://www.edinburghchess.org.uk/festival",
+        "socials": {
+            "twitter": "https://twitter.com/edinburghchess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-33",
+        "title": "Reykjavik Chess Open",
+        "start": "2025-11-15T10:00:00",
+        "end": "2025-11-17T18:00:00",
+        "location": [64.1466, -21.9426],
+        "website": "https://www.icelandchess.is/reykjavik-open",
+        "type": "tournament"
+    },
+    {
+        "id": "event-34",
+        "title": "Helsinki Chess Club",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["tu"],
+            "dtstart": "2025-06-03T18:00:00",
+            "until": "2025-12-31T21:00:00"
+        },
+        "location": [60.1699, 24.9384],
+        "website": "https://www.helsinkichess.fi",
+        "type": "club"
+    },
+    {
+        "id": "event-35",
+        "title": "Prague Chess Masters",
+        "start": "2025-06-17T10:00:00",
+        "end": "2025-06-22T18:00:00",
+        "location": [50.0755, 14.4378],
+        "website": "https://www.praguechess.cz/masters",
+        "socials": {
+            "facebook": "https://facebook.com/praguechess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-36",
+        "title": "Budapest Chess Workshop",
+        "start": "2025-09-20T13:00:00",
+        "end": "2025-09-20T17:00:00",
+        "location": [47.4979, 19.0402],
+        "website": "https://www.budapestchess.hu/workshop",
+        "type": "workshop"
+    },
+    {
+        "id": "event-37",
+        "title": "Warsaw Chess Meetup",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["sa"],
+            "dtstart": "2025-06-07T16:00:00",
+            "until": "2025-12-31T19:00:00"
+        },
+        "location": [52.2297, 21.0122],
+        "website": "https://www.meetup.com/warsaw-chess",
+        "type": "casual"
+    },
+    {
+        "id": "event-38",
+        "title": "Istanbul Chess Tournament",
+        "start": "2025-10-03T09:00:00",
+        "end": "2025-10-05T18:00:00",
+        "location": [41.0082, 28.9784],
+        "website": "https://www.istanbulchess.tr/tournament",
+        "socials": {
+            "instagram": "https://instagram.com/istanbulchess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-39",
+        "title": "Athens Chess Club",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["we"],
+            "dtstart": "2025-06-04T19:00:00",
+            "until": "2025-12-31T22:00:00"
+        },
+        "location": [37.9838, 23.7275],
+        "website": "https://www.athenschess.gr",
+        "type": "club"
+    },
+    {
+        "id": "event-40",
+        "title": "Lisbon Chess Open",
+        "start": "2025-11-28T10:00:00",
+        "end": "2025-11-30T18:00:00",
+        "location": [38.7223, -9.1393],
+        "website": "https://www.lisbonchess.pt/open",
+        "socials": {
+            "facebook": "https://facebook.com/lisbonchess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-41",
+        "title": "Zurich Chess Workshop",
+        "start": "2025-07-19T14:00:00",
+        "end": "2025-07-19T18:00:00",
+        "location": [47.3769, 8.5417],
+        "website": "https://www.zurichchess.ch/workshop",
+        "type": "workshop"
+    },
+    {
+        "id": "event-42",
+        "title": "Oslo Chess Festival",
+        "start": "2025-08-22T10:00:00",
+        "end": "2025-08-24T18:00:00",
+        "location": [59.9139, 10.7522],
+        "website": "https://www.oslochess.no/festival",
+        "socials": {
+            "twitter": "https://twitter.com/oslochess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-43",
+        "title": "Copenhagen Chess Meetup",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["su"],
+            "dtstart": "2025-06-08T14:00:00",
+            "until": "2025-12-31T17:00:00"
+        },
+        "location": [55.6761, 12.5683],
+        "website": "https://www.meetup.com/copenhagen-chess",
+        "type": "casual"
+    },
+    {
+        "id": "event-44",
+        "title": "Brussels Chess Championship",
+        "start": "2025-09-26T09:00:00",
+        "end": "2025-09-28T18:00:00",
+        "location": [50.8503, 4.3517],
+        "website": "https://www.brusselschess.be/championship",
+        "type": "tournament"
+    },
+    {
+        "id": "event-45",
+        "title": "Tel Aviv Chess Club",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["th"],
+            "dtstart": "2025-06-05T19:00:00",
+            "until": "2025-12-31T22:00:00"
+        },
+        "location": [32.0853, 34.7818],
+        "website": "https://www.telavivchess.org.il",
+        "type": "club"
+    },
+    {
+        "id": "event-46",
+        "title": "Dubai Chess Masters",
+        "start": "2025-12-12T10:00:00",
+        "end": "2025-12-15T18:00:00",
+        "location": [25.2048, 55.2708],
+        "website": "https://www.dubaichess.ae/masters",
+        "socials": {
+            "instagram": "https://instagram.com/dubaichess",
+            "twitter": "https://twitter.com/dubaichess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-47",
+        "title": "Singapore Chess Open",
+        "start": "2025-07-31T10:00:00",
+        "end": "2025-08-02T18:00:00",
+        "location": [1.3521, 103.8198],
+        "website": "https://www.singaporechess.org.sg/open",
+        "socials": {
+            "facebook": "https://facebook.com/singaporechess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-48",
+        "title": "Manila Chess Festival",
+        "start": "2025-11-07T09:00:00",
+        "end": "2025-11-09T19:00:00",
+        "location": [14.5995, 120.9842],
+        "website": "https://www.philippineschess.org/manila-festival",
+        "type": "tournament"
+    },
+    {
+        "id": "event-49",
+        "title": "Seoul Chess Workshop",
+        "start": "2025-10-11T13:00:00",
+        "end": "2025-10-11T17:00:00",
+        "location": [37.5665, 126.9780],
+        "website": "https://www.koreanchess.org/seoul-workshop",
+        "socials": {
+            "instagram": "https://instagram.com/koreanchess"
+        },
+        "type": "workshop"
+    },
+    {
+        "id": "event-50",
+        "title": "Bangkok Chess Meetup",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["sa"],
+            "dtstart": "2025-06-07T15:00:00",
+            "until": "2025-12-31T18:00:00"
+        },
+        "location": [13.7563, 100.5018],
+        "website": "https://www.thaichess.org/bangkok-meetup",
+        "type": "casual"
+    },
+    {
+        "id": "event-51",
+        "title": "Lagos Chess Championship",
+        "start": "2025-08-07T10:00:00",
+        "end": "2025-08-09T18:00:00",
+        "location": [6.5244, 3.3792],
+        "website": "https://www.nigerianchess.org/lagos-championship",
+        "socials": {
+            "facebook": "https://facebook.com/nigerianchess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-52",
+        "title": "Nairobi Chess Club",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["fr"],
+            "dtstart": "2025-06-06T18:00:00",
+            "until": "2025-12-31T21:00:00"
+        },
+        "location": [-1.2921, 36.8219],
+        "website": "https://www.kenyachess.org/nairobi-club",
+        "type": "club"
+    },
+    {
+        "id": "event-53",
+        "title": "Cairo Chess Tournament",
+        "start": "2025-09-18T09:00:00",
+        "end": "2025-09-20T18:00:00",
+        "location": [30.0444, 31.2357],
+        "website": "https://www.egyptchess.org/cairo-tournament",
+        "type": "tournament"
+    },
+    {
+        "id": "event-54",
+        "title": "Marrakech Chess Festival",
+        "start": "2025-11-21T10:00:00",
+        "end": "2025-11-23T18:00:00",
+        "location": [31.6295, -7.9811],
+        "website": "https://www.maroccochess.ma/marrakech-festival",
+        "socials": {
+            "instagram": "https://instagram.com/maroccochess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-55",
+        "title": "Casablanca Chess Workshop",
+        "start": "2025-06-28T14:00:00",
+        "end": "2025-06-28T18:00:00",
+        "location": [33.5731, -7.5898],
+        "website": "https://www.maroccochess.ma/casablanca-workshop",
+        "type": "workshop"
+    },
+    {
+        "id": "event-56",
+        "title": "Santiago Chess Open",
+        "start": "2025-10-16T10:00:00",
+        "end": "2025-10-18T18:00:00",
+        "location": [-33.4489, -70.6693],
+        "website": "https://www.chilechess.cl/santiago-open",
+        "socials": {
+            "facebook": "https://facebook.com/chilechess"
+        },
+        "type": "tournament"
+    },
+    {
+        "id": "event-57",
+        "title": "Lima Chess Meetup",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["su"],
+            "dtstart": "2025-06-08T16:00:00",
+            "until": "2025-12-31T19:00:00"
+        },
+        "location": [-12.0464, -77.0428],
+        "website": "https://www.peruchess.org/lima-meetup",
+        "type": "casual"
+    },
+    {
+        "id": "event-58",
+        "title": "Montevideo Chess Club",
+        "rrule": {
+            "freq": "weekly",
+            "byweekday": ["tu"],
+            "dtstart": "2025-06-03T19:00:00",
+            "until": "2025-12-31T22:00:00"
+        },
+        "location": [-34.9011, -56.1645],
+        "website": "https://www.uruguaychess.org.uy/montevideo",
+        "type": "club"
+    },
+    {
+        "id": "event-59",
+        "title": "Bogotá Chess Championship",
+        "start": "2025-12-19T09:00:00",
+        "end": "2025-12-21T18:00:00",
+        "location": [4.7110, -74.0721],
+        "website": "https://www.colombiachess.org/bogota-championship",
+        "socials": {
+            "twitter": "https://twitter.com/colombiachess"
+        },
+        "type": "tournament"
     }
 ]
