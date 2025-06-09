@@ -1,6 +1,4 @@
 {
-  "lastSyncTime": "2025-06-08T20:38:10Z",
-  "source": "google-sheets",
   "events": [
     {
       "location": [
@@ -446,6 +444,1157 @@
       "website": "https://www.startrightchess.com",
       "end": "2025-07-13T18:00:00",
       "type": "online"
+    },
+    {
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "recurring": "No, one-time event",
+      "processed": false,
+      "sourceTimestamp": "6/8/2025 14:24:50",
+      "start": "2025-08-13T09:00:00",
+      "id": "event-1DD48844",
+      "contact": "info@londonchessknights.com",
+      "title": "V Mindsports International Festival",
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "website": "https://form.jotform.com/250984116760359",
+      "end": "2025-08-13T13:00:00",
+      "type": "tournament"
+    },
+    {
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "recurring": "No, one-time event",
+      "processed": false,
+      "sourceTimestamp": "6/8/2025 14:14:02",
+      "start": "2025-06-30T10:00:00",
+      "id": "event-3880154E",
+      "contact": "",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "description": "International rapid and blitz championship in Zagreb",
+      "website": "https://www.chess.hr",
+      "end": "2025-06-30T14:00:00",
+      "type": "tournament"
+    },
+    {
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "recurring": "No, one-time event",
+      "processed": false,
+      "sourceTimestamp": "6/8/2025 14:14:05",
+      "start": "2025-07-13T14:00:00",
+      "id": "event-4CECEDB4",
+      "contact": "",
+      "title": "SRC Online Rated U1600 Championship",
+      "description": "Swiss tournament for players under 1600 rating",
+      "website": "https://www.startrightchess.com",
+      "end": "2025-07-13T18:00:00",
+      "type": "online"
+    },
+    {
+      "sourceTimestamp": "6/8/2025 14:24:50",
+      "type": "tournament",
+      "title": "V Mindsports International Festival",
+      "end": "2025-08-13T13:00:00",
+      "website": "https://form.jotform.com/250984116760359",
+      "start": "2025-08-13T09:00:00",
+      "contact": "info@londonchessknights.com",
+      "id": "event-1DD48844",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "recurring": "No, one-time event",
+      "processed": false,
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players."
+    },
+    {
+      "sourceTimestamp": "6/8/2025 14:14:02",
+      "type": "tournament",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "end": "2025-06-30T14:00:00",
+      "website": "https://www.chess.hr",
+      "start": "2025-06-30T10:00:00",
+      "contact": "",
+      "id": "event-3880154E",
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "recurring": "No, one-time event",
+      "processed": false,
+      "description": "International rapid and blitz championship in Zagreb"
+    },
+    {
+      "sourceTimestamp": "6/8/2025 14:14:05",
+      "type": "online",
+      "title": "SRC Online Rated U1600 Championship",
+      "end": "2025-07-13T18:00:00",
+      "website": "https://www.startrightchess.com",
+      "start": "2025-07-13T14:00:00",
+      "contact": "",
+      "id": "event-4CECEDB4",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "recurring": "No, one-time event",
+      "processed": false,
+      "description": "Swiss tournament for players under 1600 rating"
+    },
+    {
+      "id": "event-1DD48844",
+      "sourceTimestamp": "6/8/2025 14:24:50",
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "type": "tournament",
+      "title": "V Mindsports International Festival",
+      "start": "2025-08-13T09:00:00",
+      "website": "https://form.jotform.com/250984116760359",
+      "end": "2025-08-13T13:00:00",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "processed": false,
+      "recurring": "No, one-time event",
+      "contact": "info@londonchessknights.com"
+    },
+    {
+      "id": "event-3880154E",
+      "sourceTimestamp": "6/8/2025 14:14:02",
+      "description": "International rapid and blitz championship in Zagreb",
+      "type": "tournament",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "start": "2025-06-30T10:00:00",
+      "website": "https://www.chess.hr",
+      "end": "2025-06-30T14:00:00",
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "processed": false,
+      "recurring": "No, one-time event",
+      "contact": ""
+    },
+    {
+      "id": "event-4CECEDB4",
+      "sourceTimestamp": "6/8/2025 14:14:05",
+      "description": "Swiss tournament for players under 1600 rating",
+      "type": "online",
+      "title": "SRC Online Rated U1600 Championship",
+      "start": "2025-07-13T14:00:00",
+      "website": "https://www.startrightchess.com",
+      "end": "2025-07-13T18:00:00",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "processed": false,
+      "recurring": "No, one-time event",
+      "contact": ""
+    },
+    {
+      "id": "event-1DD48844",
+      "processed": false,
+      "start": "2025-08-13T09:00:00",
+      "sourceTimestamp": "6/8/2025 14:24:50",
+      "contact": "info@londonchessknights.com",
+      "recurring": "No, one-time event",
+      "type": "tournament",
+      "end": "2025-08-13T13:00:00",
+      "title": "V Mindsports International Festival",
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "website": "https://form.jotform.com/250984116760359",
+      "location": [
+        51.4927,
+        -0.2358
+      ]
+    },
+    {
+      "id": "event-3880154E",
+      "processed": false,
+      "start": "2025-06-30T10:00:00",
+      "sourceTimestamp": "6/8/2025 14:14:02",
+      "contact": "",
+      "recurring": "No, one-time event",
+      "type": "tournament",
+      "end": "2025-06-30T14:00:00",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "description": "International rapid and blitz championship in Zagreb",
+      "website": "https://www.chess.hr",
+      "location": [
+        45.815,
+        15.9819
+      ]
+    },
+    {
+      "id": "event-4CECEDB4",
+      "processed": false,
+      "start": "2025-07-13T14:00:00",
+      "sourceTimestamp": "6/8/2025 14:14:05",
+      "contact": "",
+      "recurring": "No, one-time event",
+      "type": "online",
+      "end": "2025-07-13T18:00:00",
+      "title": "SRC Online Rated U1600 Championship",
+      "description": "Swiss tournament for players under 1600 rating",
+      "website": "https://www.startrightchess.com",
+      "location": [
+        40.7128,
+        -74.006
+      ]
+    },
+    {
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "processed": false,
+      "contact": "info@londonchessknights.com",
+      "sourceTimestamp": "6/8/2025 14:24:50",
+      "type": "tournament",
+      "end": "2025-08-13T13:00:00",
+      "title": "V Mindsports International Festival",
+      "website": "https://form.jotform.com/250984116760359",
+      "start": "2025-08-13T09:00:00",
+      "id": "event-1DD48844",
+      "recurring": "No, one-time event"
+    },
+    {
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "description": "International rapid and blitz championship in Zagreb",
+      "processed": false,
+      "contact": "",
+      "sourceTimestamp": "6/8/2025 14:14:02",
+      "type": "tournament",
+      "end": "2025-06-30T14:00:00",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "website": "https://www.chess.hr",
+      "start": "2025-06-30T10:00:00",
+      "id": "event-3880154E",
+      "recurring": "No, one-time event"
+    },
+    {
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "description": "Swiss tournament for players under 1600 rating",
+      "processed": false,
+      "contact": "",
+      "sourceTimestamp": "6/8/2025 14:14:05",
+      "type": "online",
+      "end": "2025-07-13T18:00:00",
+      "title": "SRC Online Rated U1600 Championship",
+      "website": "https://www.startrightchess.com",
+      "start": "2025-07-13T14:00:00",
+      "id": "event-4CECEDB4",
+      "recurring": "No, one-time event"
+    },
+    {
+      "start": "2025-08-13T09:00:00",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "sourceTimestamp": "6/8/2025 14:24:50",
+      "contact": "info@londonchessknights.com",
+      "title": "V Mindsports International Festival",
+      "website": "https://form.jotform.com/250984116760359",
+      "processed": false,
+      "end": "2025-08-13T13:00:00",
+      "recurring": "No, one-time event",
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "id": "event-1DD48844",
+      "type": "tournament"
+    },
+    {
+      "start": "2025-06-30T10:00:00",
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "sourceTimestamp": "6/8/2025 14:14:02",
+      "contact": "",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "website": "https://www.chess.hr",
+      "processed": false,
+      "end": "2025-06-30T14:00:00",
+      "recurring": "No, one-time event",
+      "description": "International rapid and blitz championship in Zagreb",
+      "id": "event-3880154E",
+      "type": "tournament"
+    },
+    {
+      "start": "2025-07-13T14:00:00",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "sourceTimestamp": "6/8/2025 14:14:05",
+      "contact": "",
+      "title": "SRC Online Rated U1600 Championship",
+      "website": "https://www.startrightchess.com",
+      "processed": false,
+      "end": "2025-07-13T18:00:00",
+      "recurring": "No, one-time event",
+      "description": "Swiss tournament for players under 1600 rating",
+      "id": "event-4CECEDB4",
+      "type": "online"
+    },
+    {
+      "recurring": "No, one-time event",
+      "website": "https://form.jotform.com/250984116760359",
+      "processed": false,
+      "end": "2025-08-13T13:00:00",
+      "sourceTimestamp": "6/8/2025 14:24:50",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "start": "2025-08-13T09:00:00",
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "id": "event-1DD48844",
+      "type": "tournament",
+      "title": "V Mindsports International Festival",
+      "contact": "info@londonchessknights.com"
+    },
+    {
+      "recurring": "No, one-time event",
+      "website": "https://www.chess.hr",
+      "processed": false,
+      "end": "2025-06-30T14:00:00",
+      "sourceTimestamp": "6/8/2025 14:14:02",
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "start": "2025-06-30T10:00:00",
+      "description": "International rapid and blitz championship in Zagreb",
+      "id": "event-3880154E",
+      "type": "tournament",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "contact": ""
+    },
+    {
+      "recurring": "No, one-time event",
+      "website": "https://www.startrightchess.com",
+      "processed": false,
+      "end": "2025-07-13T18:00:00",
+      "sourceTimestamp": "6/8/2025 14:14:05",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "start": "2025-07-13T14:00:00",
+      "description": "Swiss tournament for players under 1600 rating",
+      "id": "event-4CECEDB4",
+      "type": "online",
+      "title": "SRC Online Rated U1600 Championship",
+      "contact": ""
+    },
+    {
+      "website": "https://form.jotform.com/250984116760359",
+      "start": "2025-08-13T09:00:00",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "title": "V Mindsports International Festival",
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "end": "2025-08-13T13:00:00",
+      "type": "tournament",
+      "sourceTimestamp": "6/8/2025 14:24:50",
+      "id": "event-1DD48844",
+      "contact": "info@londonchessknights.com",
+      "recurring": "No, one-time event",
+      "processed": false
+    },
+    {
+      "website": "https://www.chess.hr",
+      "start": "2025-06-30T10:00:00",
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "description": "International rapid and blitz championship in Zagreb",
+      "end": "2025-06-30T14:00:00",
+      "type": "tournament",
+      "sourceTimestamp": "6/8/2025 14:14:02",
+      "id": "event-3880154E",
+      "contact": "",
+      "recurring": "No, one-time event",
+      "processed": false
+    },
+    {
+      "website": "https://www.startrightchess.com",
+      "start": "2025-07-13T14:00:00",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "title": "SRC Online Rated U1600 Championship",
+      "description": "Swiss tournament for players under 1600 rating",
+      "end": "2025-07-13T18:00:00",
+      "type": "online",
+      "sourceTimestamp": "6/8/2025 14:14:05",
+      "id": "event-4CECEDB4",
+      "contact": "",
+      "recurring": "No, one-time event",
+      "processed": false
+    },
+    {
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "recurring": "No, one-time event",
+      "processed": false,
+      "sourceTimestamp": "6/8/2025 14:24:50",
+      "start": "2025-08-13T09:00:00",
+      "id": "event-1DD48844",
+      "contact": "info@londonchessknights.com",
+      "title": "V Mindsports International Festival",
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "website": "https://form.jotform.com/250984116760359",
+      "end": "2025-08-13T13:00:00",
+      "type": "tournament"
+    },
+    {
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "recurring": "No, one-time event",
+      "processed": false,
+      "sourceTimestamp": "6/8/2025 14:14:02",
+      "start": "2025-06-30T10:00:00",
+      "id": "event-3880154E",
+      "contact": "",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "description": "International rapid and blitz championship in Zagreb",
+      "website": "https://www.chess.hr",
+      "end": "2025-06-30T14:00:00",
+      "type": "tournament"
+    },
+    {
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "recurring": "No, one-time event",
+      "processed": false,
+      "sourceTimestamp": "6/8/2025 14:14:05",
+      "start": "2025-07-13T14:00:00",
+      "id": "event-4CECEDB4",
+      "contact": "",
+      "title": "SRC Online Rated U1600 Championship",
+      "description": "Swiss tournament for players under 1600 rating",
+      "website": "https://www.startrightchess.com",
+      "end": "2025-07-13T18:00:00",
+      "type": "online"
+    },
+    {
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "title": "V Mindsports International Festival",
+      "id": "event-1DD48844",
+      "end": "2025-08-13T13:00:00",
+      "type": "tournament",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "start": "2025-08-13T09:00:00",
+      "contact": "info@londonchessknights.com",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://form.jotform.com/250984116760359",
+      "sourceTimestamp": "6/8/2025 14:24:50"
+    },
+    {
+      "description": "International rapid and blitz championship in Zagreb",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "id": "event-3880154E",
+      "end": "2025-06-30T14:00:00",
+      "type": "tournament",
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "start": "2025-06-30T10:00:00",
+      "contact": "",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://www.chess.hr",
+      "sourceTimestamp": "6/8/2025 14:14:02"
+    },
+    {
+      "description": "Swiss tournament for players under 1600 rating",
+      "title": "SRC Online Rated U1600 Championship",
+      "id": "event-4CECEDB4",
+      "end": "2025-07-13T18:00:00",
+      "type": "online",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "start": "2025-07-13T14:00:00",
+      "contact": "",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://www.startrightchess.com",
+      "sourceTimestamp": "6/8/2025 14:14:05"
+    },
+    {
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "title": "V Mindsports International Festival",
+      "id": "event-1DD48844",
+      "end": "2025-08-13T13:00:00",
+      "type": "tournament",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "start": "2025-08-13T09:00:00",
+      "contact": "info@londonchessknights.com",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://form.jotform.com/250984116760359",
+      "sourceTimestamp": "6/8/2025 14:24:50"
+    },
+    {
+      "description": "International rapid and blitz championship in Zagreb",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "id": "event-3880154E",
+      "end": "2025-06-30T14:00:00",
+      "type": "tournament",
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "start": "2025-06-30T10:00:00",
+      "contact": "",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://www.chess.hr",
+      "sourceTimestamp": "6/8/2025 14:14:02"
+    },
+    {
+      "description": "Swiss tournament for players under 1600 rating",
+      "title": "SRC Online Rated U1600 Championship",
+      "id": "event-4CECEDB4",
+      "end": "2025-07-13T18:00:00",
+      "type": "online",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "start": "2025-07-13T14:00:00",
+      "contact": "",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://www.startrightchess.com",
+      "sourceTimestamp": "6/8/2025 14:14:05"
+    },
+    {
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "title": "V Mindsports International Festival",
+      "id": "event-1DD48844",
+      "end": "2025-08-13T13:00:00",
+      "type": "tournament",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "start": "2025-08-13T09:00:00",
+      "contact": "info@londonchessknights.com",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://form.jotform.com/250984116760359",
+      "sourceTimestamp": "6/8/2025 14:24:50"
+    },
+    {
+      "description": "International rapid and blitz championship in Zagreb",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "id": "event-3880154E",
+      "end": "2025-06-30T14:00:00",
+      "type": "tournament",
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "start": "2025-06-30T10:00:00",
+      "contact": "",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://www.chess.hr",
+      "sourceTimestamp": "6/8/2025 14:14:02"
+    },
+    {
+      "description": "Swiss tournament for players under 1600 rating",
+      "title": "SRC Online Rated U1600 Championship",
+      "id": "event-4CECEDB4",
+      "end": "2025-07-13T18:00:00",
+      "type": "online",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "start": "2025-07-13T14:00:00",
+      "contact": "",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://www.startrightchess.com",
+      "sourceTimestamp": "6/8/2025 14:14:05"
+    },
+    {
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "title": "V Mindsports International Festival",
+      "id": "event-1DD48844",
+      "end": "2025-08-13T13:00:00",
+      "type": "tournament",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "start": "2025-08-13T09:00:00",
+      "contact": "info@londonchessknights.com",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://form.jotform.com/250984116760359",
+      "sourceTimestamp": "6/8/2025 14:24:50"
+    },
+    {
+      "description": "International rapid and blitz championship in Zagreb",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "id": "event-3880154E",
+      "end": "2025-06-30T14:00:00",
+      "type": "tournament",
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "start": "2025-06-30T10:00:00",
+      "contact": "",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://www.chess.hr",
+      "sourceTimestamp": "6/8/2025 14:14:02"
+    },
+    {
+      "description": "Swiss tournament for players under 1600 rating",
+      "title": "SRC Online Rated U1600 Championship",
+      "id": "event-4CECEDB4",
+      "end": "2025-07-13T18:00:00",
+      "type": "online",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "start": "2025-07-13T14:00:00",
+      "contact": "",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://www.startrightchess.com",
+      "sourceTimestamp": "6/8/2025 14:14:05"
+    },
+    {
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "title": "V Mindsports International Festival",
+      "id": "event-1DD48844",
+      "end": "2025-08-13T13:00:00",
+      "type": "tournament",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "start": "2025-08-13T09:00:00",
+      "contact": "info@londonchessknights.com",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://form.jotform.com/250984116760359",
+      "sourceTimestamp": "6/8/2025 14:24:50"
+    },
+    {
+      "description": "International rapid and blitz championship in Zagreb",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "id": "event-3880154E",
+      "end": "2025-06-30T14:00:00",
+      "type": "tournament",
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "start": "2025-06-30T10:00:00",
+      "contact": "",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://www.chess.hr",
+      "sourceTimestamp": "6/8/2025 14:14:02"
+    },
+    {
+      "description": "Swiss tournament for players under 1600 rating",
+      "title": "SRC Online Rated U1600 Championship",
+      "id": "event-4CECEDB4",
+      "end": "2025-07-13T18:00:00",
+      "type": "online",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "start": "2025-07-13T14:00:00",
+      "contact": "",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://www.startrightchess.com",
+      "sourceTimestamp": "6/8/2025 14:14:05"
+    },
+    {
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "title": "V Mindsports International Festival",
+      "id": "event-1DD48844",
+      "end": "2025-08-13T13:00:00",
+      "type": "tournament",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "start": "2025-08-13T09:00:00",
+      "contact": "info@londonchessknights.com",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://form.jotform.com/250984116760359",
+      "sourceTimestamp": "6/8/2025 14:24:50"
+    },
+    {
+      "description": "Swiss tournament for players under 1600 rating",
+      "title": "SRC Online Rated U1600 Championship",
+      "id": "event-4CECEDB4",
+      "end": "2025-07-13T18:00:00",
+      "type": "online",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "start": "2025-07-13T14:00:00",
+      "contact": "",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://www.startrightchess.com",
+      "sourceTimestamp": "6/8/2025 14:14:05"
+    },
+    {
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "title": "V Mindsports International Festival",
+      "id": "event-1DD48844",
+      "end": "2025-08-13T13:00:00",
+      "type": "tournament",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "start": "2025-08-13T09:00:00",
+      "contact": "info@londonchessknights.com",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://form.jotform.com/250984116760359",
+      "sourceTimestamp": "6/8/2025 14:24:50"
+    },
+    {
+      "description": "Swiss tournament for players under 1600 rating",
+      "title": "SRC Online Rated U1600 Championship",
+      "id": "event-4CECEDB4",
+      "end": "2025-07-13T18:00:00",
+      "type": "online",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "start": "2025-07-13T14:00:00",
+      "contact": "",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://www.startrightchess.com",
+      "sourceTimestamp": "6/8/2025 14:14:05"
+    },
+    {
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "title": "V Mindsports International Festival",
+      "id": "event-1DD48844",
+      "end": "2025-08-13T13:00:00",
+      "type": "tournament",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "start": "2025-08-13T09:00:00",
+      "contact": "info@londonchessknights.com",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://form.jotform.com/250984116760359",
+      "sourceTimestamp": "6/8/2025 14:24:50"
+    },
+    {
+      "description": "Swiss tournament for players under 1600 rating",
+      "title": "SRC Online Rated U1600 Championship",
+      "id": "event-4CECEDB4",
+      "end": "2025-07-13T18:00:00",
+      "type": "online",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "start": "2025-07-13T14:00:00",
+      "contact": "",
+      "processed": false,
+      "recurring": "No, one-time event",
+      "website": "https://www.startrightchess.com",
+      "sourceTimestamp": "6/8/2025 14:14:05"
+    },
+    {
+      "description": "18 round tournament (9 double rounds). 3 minutes each plus 2 seconds per move. FIDE and ECF rated. Organized by Middlesex County Chess Association.",
+      "title": "Middlesex Blitz Championship - July",
+      "id": "event-0B2124E0",
+      "locationText": "All Saints Church, Childs Hill, Church Walk, London NW2 2TJ",
+      "end": "2025-07-12T17:00:00",
+      "type": "tournament",
+      "start": "2025-07-12T13:00:00",
+      "contact": "adam@chessengland.com",
+      "processed": false,
+      "recurring": "Monthly",
+      "website": "https://sites.google.com/view/chessengland",
+      "sourceTimestamp": "6/9/2025 12:33:16"
+    },
+    {
+      "location": [
+        36.152294,
+        -115.242871
+      ],
+      "recurring": "Weekly",
+      "processed": false,
+      "sourceTimestamp": "6/9/2025 12:46:57",
+      "start": "2025-01-07T17:00:00",
+      "id": "event-5C302EA9",
+      "locationText": "Jersey Mike's Subs, 1772 S. Rainbow Bl., Las Vegas, NV",
+      "contact": "",
+      "title": "Casual Chess Club Las Vegas",
+      "description": "FREE weekly chess meetup! No rating required, just show up and play. Casual environment for all skill levels. Food and drinks available. Every Tuesday since 2015!",
+      "website": "https://casualchessclub.com/",
+      "end": "2025-01-07T21:00:00",
+      "type": "casual"
+    },
+    {
+      "location": [
+        39.5105312,
+        -119.8058842
+      ],
+      "recurring": "Weekly",
+      "processed": false,
+      "sourceTimestamp": "6/9/2025 12:46:57",
+      "start": "2025-01-06T18:30:00",
+      "id": "event-27255D99",
+      "locationText": "Midnight Coffee Shop Midtown, 1401 S Virginia St, Reno, NV",
+      "contact": "",
+      "title": "Reno Casual Chess Club",
+      "description": "All levels welcome! From beginners to experts. Some chess boards provided but bring your own if possible. Purchase food/drink to support venue. Great for making chess friends!",
+      "website": "https://www.meetup.com/reno-casual-chess-club/",
+      "end": "2025-01-06T22:30:00",
+      "type": "casual"
+    },
+    {
+      "location": [
+        38.913669,
+        -77.045323
+      ],
+      "recurring": "Weekly",
+      "processed": false,
+      "sourceTimestamp": "6/9/2025 12:46:57",
+      "start": "2025-01-06T18:30:00",
+      "id": "event-78209D95",
+      "locationText": "Board Room, Washington, DC",
+      "contact": "",
+      "title": "Chess on Tap Washington DC",
+      "description": "DC's premiere social chess club! Meet new friends over casual games. All levels from beginner to expert. Chess sets provided. 21+ venue with great atmosphere.",
+      "website": "https://www.meetup.com/chess-on-tap/",
+      "end": "2025-01-06T22:30:00",
+      "type": "casual"
+    },
+    {
+      "location": [
+        52.3739315,
+        4.880875899999999
+      ],
+      "recurring": "Weekly",
+      "processed": false,
+      "sourceTimestamp": "6/9/2025 12:46:57",
+      "start": "2025-01-09T19:00:00",
+      "id": "event-175DF504",
+      "locationText": "Amsterdamse Jordaan, Amsterdam, Netherlands",
+      "contact": "",
+      "title": "Café de Laurierboom Amsterdam",
+      "description": "Chess and games café in heart of Amsterdam's Jordaan district. Different beers on tap, nice staff, good atmosphere. Great for casual chess and meeting locals!",
+      "website": "https://www.linkedin.com/company/caf-de-laurierboom",
+      "end": "2025-01-09T23:00:00",
+      "type": "casual"
+    },
+    {
+      "location": [
+        48.8528561,
+        2.3314211
+      ],
+      "recurring": "Weekly",
+      "processed": false,
+      "sourceTimestamp": "6/9/2025 12:46:57",
+      "start": "2025-01-10T18:00:00",
+      "id": "event-55FD3B96",
+      "locationText": "4 Rue du Sabot, Paris, France",
+      "contact": "",
+      "title": "Blitz Society Paris",
+      "description": "Chic chess bar in Saint-Germain-des-Prés with 27 tables. Jazz music atmosphere. Afterwork events, team building. Wine selection and gourmet food. All levels welcome!",
+      "website": "https://www.blitzsociety.fr/",
+      "end": "2025-01-10T22:00:00",
+      "type": "casual"
+    },
+    {
+      "location": [
+        40.7933956,
+        -73.9376566
+      ],
+      "recurring": "Weekly",
+      "processed": false,
+      "sourceTimestamp": "6/9/2025 12:46:57",
+      "start": "2025-01-12T14:00:00",
+      "id": "event-14F64333",
+      "locationText": "2163 1st Ave, New York, NY",
+      "contact": "",
+      "title": "Chess Café New York",
+      "description": "Casual chess café environment in NYC. Great for weekend chess, meeting fellow enthusiasts, and relaxed games. Coffee, conversation, and checkmates!",
+      "website": "https://www.linkedin.com/company/chess-cafe",
+      "end": "2025-01-12T18:00:00",
+      "type": "casual"
+    },
+    {
+      "location": [
+        40.7308838,
+        -73.997332
+      ],
+      "recurring": "Weather permitting",
+      "processed": false,
+      "sourceTimestamp": "6/9/2025 12:46:57",
+      "start": "2025-03-15T14:00:00",
+      "id": "event-2072B26B",
+      "locationText": "Washington Square Park, New York, NY",
+      "contact": "",
+      "title": "Chess in Washington Square Park",
+      "description": "Weather permitting outdoor chess! Bring your own board or find pickup games. Classic NYC chess culture. Great for beginners to watch and learn from street chess masters.",
+      "website": "N/A - Informal gathering",
+      "end": "2025-03-15T18:00:00",
+      "type": "casual"
+    },
+    {
+      "recurring": "Weekly",
+      "processed": false,
+      "sourceTimestamp": "6/9/2025 12:46:57",
+      "start": "2025-01-15T18:00:00",
+      "id": "event-60582EB4",
+      "locationText": "Local Libraries and Community Centers (Various)",
+      "contact": "",
+      "title": "Library Chess Club Sessions",
+      "description": "Many libraries host weekly chess clubs! Call your local library. Usually free, family-friendly, and perfect for beginners. Equipment provided. Great way to learn in supportive environment.",
+      "website": "Contact local library",
+      "end": "2025-01-15T22:00:00",
+      "type": "casual"
+    },
+    {
+      "location": [
+        51.5072178,
+        -0.1275862
+      ],
+      "recurring": "Weekly",
+      "processed": false,
+      "sourceTimestamp": "6/9/2025 12:46:57",
+      "start": "2025-01-16T19:30:00",
+      "id": "event-5B7670A5",
+      "locationText": "Various pubs across London",
+      "contact": "",
+      "title": "Chess Meetup London Pubs",
+      "description": "Casual pub chess meetups across London. Rotating venues. Social atmosphere, all levels welcome. Great way to combine chess with British pub culture. Check Meetup for locations.",
+      "website": "Meetup.com (search 'London Chess')",
+      "end": "2025-01-16T23:30:00",
+      "type": "casual"
+    },
+    {
+      "location": [
+        -37.8136276,
+        144.9630576
+      ],
+      "recurring": "Weekly",
+      "processed": false,
+      "sourceTimestamp": "6/9/2025 12:46:57",
+      "start": "2025-01-18T10:00:00",
+      "id": "event-C4A055E1",
+      "locationText": "Various cafés in Melbourne, Australia",
+      "contact": "",
+      "title": "Chess and Coffee Melbourne",
+      "description": "Saturday morning chess and coffee culture! Relaxed atmosphere, all skill levels. Great way to start weekend. Community building through chess. Check local chess groups for venues.",
+      "website": "Facebook: Melbourne Chess Community",
+      "end": "2025-01-18T14:00:00",
+      "type": "casual"
+    },
+    {
+      "end": "2025-08-13T13:00:00",
+      "start": "2025-08-13T09:00:00",
+      "location": [
+        51.4927,
+        -0.2358
+      ],
+      "sourceTimestamp": "6/8/2025 14:24:50",
+      "type": "tournament",
+      "id": "event-1DD48844",
+      "description": "Major international chess festival with £4,000 prize fund. 9-round Swiss system, minimum 1900 FIDE rating required. Grandmasters and International Masters competing. Registration capacity 120 players.",
+      "recurring": "No, one-time event",
+      "title": "V Mindsports International Festival",
+      "website": "https://form.jotform.com/250984116760359",
+      "processed": false,
+      "contact": "info@londonchessknights.com"
+    },
+    {
+      "end": "2025-06-30T14:00:00",
+      "start": "2025-06-30T10:00:00",
+      "location": [
+        45.815,
+        15.9819
+      ],
+      "sourceTimestamp": "6/8/2025 14:14:02",
+      "type": "tournament",
+      "id": "event-3880154E",
+      "description": "International rapid and blitz championship in Zagreb",
+      "recurring": "No, one-time event",
+      "title": "SuperUnited Croatia Rapid And Blitz",
+      "website": "https://www.chess.hr",
+      "processed": false,
+      "contact": ""
+    },
+    {
+      "end": "2025-07-13T18:00:00",
+      "start": "2025-07-13T14:00:00",
+      "location": [
+        40.7128,
+        -74.006
+      ],
+      "sourceTimestamp": "6/8/2025 14:14:05",
+      "type": "online",
+      "id": "event-4CECEDB4",
+      "description": "Swiss tournament for players under 1600 rating",
+      "recurring": "No, one-time event",
+      "title": "SRC Online Rated U1600 Championship",
+      "website": "https://www.startrightchess.com",
+      "processed": false,
+      "contact": ""
+    },
+    {
+      "start": "10/06/2025",
+      "sourceTimestamp": "6/9/2025 12:33:16",
+      "type": "tournament",
+      "id": "event-F9D9522E",
+      "description": "Major FIDE championship with ,000 prize fund. Mixed teams with top players, emerging talents and amateurs. Organized by FIDE with Scheinberg family support.",
+      "recurring": "No, one-time event",
+      "title": "FIDE World Rapid and Blitz Team Championships 2025",
+      "website": "https://en.chessbase.com/post/london-host-fide-world-rapid-blitz-team-ch-2025",
+      "locationText": "London, United Kingdom",
+      "processed": false,
+      "contact": "FIDE",
+      "time": "TBD"
+    },
+    {
+      "end": "2025-06-03T14:30:00",
+      "start": "2025-06-03T10:30:00",
+      "sourceTimestamp": "6/9/2025 12:33:16",
+      "type": "tournament",
+      "id": "event-405C2160",
+      "description": "FIDE and ECF rated rapid tournament. Open to all players. Prizes for 1st, 2nd, and rating categories. Organized twice monthly by Chess England.",
+      "recurring": "Monthly",
+      "title": "Muswell Hill FIDE Rapid - June",
+      "website": "https://sites.google.com/view/chessengland",
+      "locationText": "The Clissold Arms, 105 Fortis Green, East Finchley, London N2 9HR",
+      "processed": false,
+      "contact": "adam@chessengland.com"
+    },
+    {
+      "end": "2025-06-05T23:30:00",
+      "start": "2025-06-05T19:30:00",
+      "sourceTimestamp": "6/9/2025 12:33:16",
+      "type": "tournament",
+      "id": "event-5BB31D7F",
+      "description": "Monthly FIDE and ECF rated blitz tournament. 19:30-22:00, anyone can play. Five minutes walk from Finchley Road & Frognal Station.",
+      "recurring": "Monthly",
+      "title": "Hendon Monthly FIDE Blitz - June",
+      "website": "https://sites.google.com/view/chessengland",
+      "locationText": "Cumberland Lawn Tennis Club, 25 Alvanley Gardens, London NW6 1JD",
+      "processed": false,
+      "contact": "adam@chessengland.com"
+    },
+    {
+      "end": "2025-06-14T15:00:00",
+      "start": "2025-06-14T11:00:00",
+      "sourceTimestamp": "6/9/2025 12:33:16",
+      "type": "tournament",
+      "id": "event-A2EE8414",
+      "description": "6-round FIDE and ECF rated tournament. Four sections: Open, Under 1900, Under 1600, and ECF Under 1100. Must be ECF Gold/Platinum member or pay £15 supplement.",
+      "recurring": "Monthly",
+      "title": "Golders Green FIDE Rapid - June",
+      "website": "https://sites.google.com/view/chessengland",
+      "locationText": "St Luke's Church, Kidderpore Avenue, London NW3 7SU",
+      "processed": false,
+      "contact": "adam@chessengland.com"
+    },
+    {
+      "end": "2025-07-25T22:30:00",
+      "start": "2025-07-25T18:30:00",
+      "sourceTimestamp": "6/9/2025 12:33:16",
+      "type": "tournament",
+      "id": "event-E7A7A2D6",
+      "description": "Three 5-round FIDE and ECF rated tournaments plus ECF Under 1400 section. Four sections: Open, U2000, U1650, and U1400. Professional weekend tournament format.",
+      "recurring": "Monthly",
+      "title": "London Chess League Weekend Congress - July",
+      "website": "https://sites.google.com/view/chessengland",
+      "locationText": "Mindsports Centre, 21 Dalling Rd, Hammersmith, London W6 0JD",
+      "processed": false,
+      "contact": "adam@chessengland.com"
+    },
+    {
+      "end": "2025-07-24T23:30:00",
+      "start": "2025-07-24T19:30:00",
+      "sourceTimestamp": "6/9/2025 12:33:16",
+      "type": "tournament",
+      "id": "event-1B716A08",
+      "description": "FIDE & ECF rated Rapid x 4 games. Open to all. Prizes for 1st, 2nd, and Best Hendon Member. Must be ECF Gold/Junior Gold member or pay £15 supplement.",
+      "recurring": "Monthly",
+      "title": "Hendon FIDE Rapid - July",
+      "website": "https://sites.google.com/view/chessengland",
+      "locationText": "Hendon Chess Club, 25 Alvanley Gardens, London NW6 1JD",
+      "processed": false,
+      "contact": "adam@chessengland.com"
     }
-  ]
+  ],
+  "lastUpdated": "2025-06-09T12:55:51.869Z",
+  "source": "google-sheets",
+  "processingSummary": {
+    "recurringDuplicatesPrevented": 36,
+    "duplicatesSkipped": 0,
+    "newEvents": 45,
+    "existingEventsPreserved": 87,
+    "totalEvents": 96,
+    "alreadyProcessed": 0
+  }
 }
