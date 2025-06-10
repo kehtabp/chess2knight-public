@@ -1,7 +1,7 @@
 {
-  "buildTime": "2025-06-09T14:42:43Z",
-  "sourceCommit": "3e2f399a7a2b22ac45c2dcac16e364b17217ff29",
-  "buildNumber": "48",
+  "buildTime": "2025-06-10T09:57:05Z",
+  "sourceCommit": "3687aeb1cff983df24348970588a6f2e625d71d3",
+  "buildNumber": "50",
   "minified": true,
   "consoleLogsRemoved": true,
   "debuggerStatementsRemoved": true,
